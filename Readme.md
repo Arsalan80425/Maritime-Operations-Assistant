@@ -16,6 +16,7 @@ Built to assist port managers and logistics operators with real-time container t
 ## 📋 Table of Contents
 - [Overview](#-overview)
 - [Key Features](#-key-features)
+- [Multi-Agent Design](#-multi-agent-design)
 - [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
@@ -34,22 +35,25 @@ Built to assist port managers and logistics operators with real-time container t
 
 ## 🎯 Overview
 
-**Maritime Operations Assistant** is a sophisticated multi-agent AI system that revolutionizes maritime logistics operations through intelligent automation. Built with LangGraph and powered by local LLMs via Ollama, this system demonstrates advanced agentic workflow design with RAG (Retrieval-Augmented Generation) capabilities.
+The **Maritime Operations Assistant** is an advanced **Agentic AI system** designed to revolutionize maritime logistics and operations management. Built using **LangGraph**, **Ollama (Mistral model)**, and **Retrieval-Augmented Generation (RAG)**, this project demonstrates how **autonomous multi-agent systems** can analyze, plan, and act across maritime workflows — from container tracking to predictive analytics and intelligent communication.
+
+Unlike traditional AI models, **Agentic AI** systems are capable of reasoning, planning, and taking actions using connected tools and contextual awareness. This project embodies that paradigm — integrating multiple agents that autonomously collaborate to assist port authorities, shipping companies, and logistics managers.
 
 ### 💡 Problem Statement
-Port managers and logistics operators face challenges with:
-- Real-time container tracking across multiple ports
-- Delay prediction and congestion management
-- Manual report generation and stakeholder communication
-- Lack of historical context in decision-making
+Modern maritime operations face challenges like:
+- Inconsistent data across ports and vessels
+- Manual delay predictions and communication gaps
+- Time-consuming report generation and analytics
+- Lack of contextual insights from historical data
 
-### ✨ Solution
-An intelligent AI assistant with specialized agents that:
-- **Track** shipments with semantic search capabilities
-- **Analyze** patterns and predict delays using time series analysis
-- **Generate** comprehensive reports automatically
-- **Communicate** with stakeholders through automated notifications
-- **Learn** from historical data using RAG for context-aware responses
+### 💡 Agentic AI Solution
+The Maritime Operations Assistant introduces **autonomous intelligent agents** that:
+- **Understand** user intents and route tasks dynamically.
+- **Reason** with maritime data using RAG-enhanced local LLMs.
+- **Act** to generate insights, reports, and notifications.
+- **Collaborate** with each other through orchestrated LangGraph workflows.
+
+Each agent performs a specific role, communicating seamlessly to deliver an end-to-end intelligent maritime management solution.
 
 ---
 
@@ -88,6 +92,29 @@ An intelligent AI assistant with specialized agents that:
 - **Executive reports** with one-click generation
 - **Workflow visualization** using Graphviz
 - **Export capabilities** for reports and chat history
+
+---
+
+## 🤖 Multi-Agent Design
+### 1. **Tracking Agent**
+Monitors containers, vessels, and routes in real time.
+- Detects delays and port congestion.
+- Retrieves ETA, port, and cargo details.
+
+### 2. **Analytics Agent**
+Analyzes patterns, forecasts delays, and evaluates performance metrics.
+- Time series forecasting for port delays.
+- Weather and congestion correlation analysis.
+
+### 3. **Report Agent**
+Automatically generates operational summaries and stakeholder reports.
+- Weekly, monthly, or custom reports.
+- Integrates historical insights from the RAG system.
+
+### 4. **Communication Agent**
+Handles automated communication workflows.
+- Drafts and sends alerts or emails to stakeholders.
+- Generates SMS notifications and updates.
 
 ---
 
@@ -564,6 +591,12 @@ _cache_ttl_seconds = 3600  # 1 hour
 
 ### 🏠 Dashboard
 *Real-time operational overview with key metrics and visualizations*
+
+
+![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview1.png)
+![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview2.png)
+![Dashboard Preview 3](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview3.png)
+![Dashboard Preview 4](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview4.png)
 
 ### 💬 AI Assistant
 *Intelligent chat interface with multi-agent collaboration*
