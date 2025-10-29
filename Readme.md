@@ -193,8 +193,8 @@ User: "Track CNT10000 and analyze delays"
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/maritime-operations-assistant.git
-cd maritime-operations-assistant
+git clone https://github.com/Arsalan80425/Maritime-Operations-Assistant.git
+cd Maritime-Operations-Assistant
 ```
 
 ### Step 2: Install Dependencies
@@ -245,7 +245,7 @@ The application will open in your browser at `http://localhost:8501`
 ### First-Time Setup
 ```bash
 # Complete installation
-git clone <repo-url> && cd maritime-operations-assistant
+git clone https://github.com/Arsalan80425/Maritime-Operations-Assistant && cd Maritime-Operations-Assistant
 pip install -r requirements.txt
 ollama pull mistral
 
@@ -357,7 +357,7 @@ Subject: URGENT: Container CNT10001 Delay Alert
 ## 📁 Project Structure
 
 ```
-maritime-operations-assistant/
+Maritime-Operations-Assistant/
 │
 ├── app.py                          # Main Streamlit application
 ├── orchestrator.py                 # LangGraph orchestration logic
@@ -385,9 +385,6 @@ maritime-operations-assistant/
 │   ├── index.pkl                  # Document metadata
 │   ├── metadata.json              # Store statistics
 │   └── cache_stats.json           # Performance metrics
-│
-├── logs/                           # Application logs
-│   └── maritime_ops.log           # Detailed operation logs
 │
 └── README.md                       # This file
 ```
@@ -630,8 +627,8 @@ Contributions are welcome! Please follow these steps:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/maritime-operations-assistant.git
-cd maritime-operations-assistant
+git clone https://github.com/Arsalan80425/Maritime-Operations-Assistant
+cd Maritime-Operations-Assistant
 
 # Create virtual environment
 python -m venv venv
@@ -663,7 +660,7 @@ flake8 .
 
 - 📧 Email: [arsalanshaikh0408@gmail.com](mailto:arsalanshaikh0408@gmail.com)
 - 💼 LinkedIn: [Mohammed Arsalan](http://www.linkedin.com/in/mohammed-arsalan-58543a305)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [@yourusername](https://github.com/Arsalan80425)
 
 ### About the Project
 This project demonstrates advanced agentic AI workflow design using LangGraph, showcasing:
@@ -758,6 +755,6 @@ If you encounter any issues or have questions:
 
 **Built with ❤️ by Mohammed Arsalan**
 
-[🔝 Back to Top](#-maritime-operations-assistant)
+[🔝 Back to Top](#-Maritime-Operations-Assistant)
 
 </div>
