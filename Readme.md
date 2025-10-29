@@ -391,6 +391,9 @@ Maritime-Operations-Assistant/
 ├── build_vector_store.py           # Vector store builder script
 ├── requirements.txt                # Python dependencies
 │
+├── Screenshots/                         # Specialized AI agents
+│   ├── Images of Dashboard *
+│
 ├── agents/                         # Specialized AI agents
 │   ├── __init__.py
 │   ├── tracking_agent.py          # Container tracking & location
@@ -593,22 +596,42 @@ _cache_ttl_seconds = 3600  # 1 hour
 *Real-time operational overview with key metrics and visualizations*
 
 
-![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview1.png)
-![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview2.png)
-![Dashboard Preview 3](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview3.png)
-![Dashboard Preview 4](https://raw.githubusercontent.com/Arsalan80425/AI-Powered-Health-Misinformation-Detection-Verification-System/refs/heads/master/preview4.png)
+![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/1.png)
+![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/2.png)
+![Dashboard Preview 3](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/3.png)
+
 
 ### 💬 AI Assistant
 *Intelligent chat interface with multi-agent collaboration*
 
+
+![Dashboard Preview 4](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/4.png)
+![Dashboard Preview 5](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/5.png)
+
+
 ### 📊 Analytics
 *Predictive forecasting and performance analysis*
+
+
+![Dashboard Preview 6](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/6.png)
+![Dashboard Preview 7](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/7.png)
+![Dashboard Preview 8](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/8.png)
+
 
 ### 📋 Reports
 *One-click professional report generation*
 
+
+![Dashboard Preview 9](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/9.png)
+
+
 ### 📦 Tracking
 *Container tracking with visual timeline*
+
+
+![Dashboard Preview 10](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/10.png)
+![Dashboard Preview 11](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/11.png)
+![Dashboard Preview 12](https://raw.githubusercontent.com/Arsalan80425/Maritime-Operations-Assistant/refs/heads/main/Screenshots/12.png)
 
 ---
 
