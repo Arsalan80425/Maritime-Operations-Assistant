@@ -1,0 +1,104 @@
+# ==========================================
+# Maritime Operations Assistant - .gitignore
+# ==========================================
+
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs
+# ==========================================
+logs/
+*.log
+maritime_ops.log
+debug.log
+error.log
+
+# Vector Store (Large Files)
+# ==========================================
+# vector_store/
+# vector_store/*.faiss
+# vector_store/*.pkl
+
+# Or keep metadata but exclude large index files:
+# vector_store/index.faiss
+# vector_store/index.pkl
+
+# Data Files
+# ==========================================
+
+# data/Port_Data_Clean.csv
+# data/Shipments.csv
+# data/Daily_Report.csv
+
+# Environment Variables & Secrets
+# ==========================================
+.env
+
+
+# Temporary Files
+# ==========================================
+tmp/
+temp/
+*.tmp
+*.temp
+cache/
+.cache/
+
+# LLM Model Files (if stored locally)
+# ==========================================
+models/
+*.gguf
+*.bin
+ollama_models/
+
+# Ollama Cache 
+# ==========================================
+.ollama/
+
+
+try.py
+verify_vector_store.py
+setup.py
+convert_to_ollama.py
+
+
+# Maritime Project Specific
+# ==========================================
+# Custom cache files
+query_cache/
+embedding_cache/
+
+
+# ==========================================
+# Keep These Files (Force Include)
+# ==========================================
+# Use ! to force include important files if parent folder is ignored
+!data/.gitkeep
+!logs/.gitkeep
+!reports/.gitkeep
+
+!README.md
+

@@ -1,0 +1,30 @@
+# Core AI/ML Libraries
+langchain
+langgraph
+langchain-ollama
+langchain-community
+langchain-core
+
+# Vector Store
+faiss-cpu
+chromadb
+
+# Data Processing
+pandas
+numpy
+
+# Web Framework
+streamlit
+plotly
+
+# Utilities
+python-dotenv
+python-dateutil
+
+# For graph visualization
+graphviz
+
+# Additional dependencies
+requests
+pydantic
+tiktoken

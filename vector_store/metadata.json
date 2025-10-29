@@ -1,0 +1,10 @@
+{
+  "total_documents": 1900,
+  "document_types": {
+    "shipments": 1000,
+    "ports": 480,
+    "daily_reports": 420
+  },
+  "creation_timestamp": "2025-10-29T17:22:12.123804",
+  "model": "mistral"
+}

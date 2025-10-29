@@ -1,0 +1,481 @@
+Country,Port Name,UN Code,Vessels in Port,Departures(Last 24 Hours),Arrivals(Last 24 Hours),Expected Arrivals,Type,Area Local,Area Global,Also known as,Active Ratio,Traffic Density,Port Activity Index,Traffic Category
+China,SHANGHAI,CNSHG,2420,1376,1626,644,Port,East China Sea,Central China,SHANG HAI;  YANGSHAN;  CNSHA;  CNSGH,4.66,0.81,1329.6000000000001,High
+China,NANTONG,CNNTG,1572,1173,1287,234,Port,East China Sea,Central China,NAN TONG,10.51,0.64,1030.8000000000002,High
+China,CJK,CNCJK,1529,343,370,310,Anchorage,East China Sea,Central China,CHANGJIANGKOU;  CHANGJIANG KOU;  CJK CN,2.3,2.14,347.20000000000005,High
+China,NANJING,CNNKG,1414,667,1060,203,Port,East China Sea,Central China,NAN JING;  NAN JIN;  NANJIN,8.51,0.82,731.4,High
+China,JIANGYIN,CNJIA,1112,1076,1070,166,Port,East China Sea,Central China,-;  JANG JIN;  JIANG YIN,12.93,0.52,891.6000000000001,High
+Singapore,SINGAPORE,SGSIN,1109,1682,1748,1205,Port,Singapore Area,Indonesia,SPORE;  SINGPORE;  SIN EBGA;  SIN PEBGA,2.85,0.32,1613.0,High
+China,ZHANGJIAGANG,CNZJG,1094,653,608,120,Port,East China Sea,Central China,ZHANG JIA GANG;  ZHANG GIAN GANG;  ZHAN JIANG,10.51,0.87,528.4,High
+China,ZHOUSHAN,CNZOS,1064,791,839,463,Port,East China Sea,Central China,ZHOU SHAN;  DINGHAI;  DING HAI;  ZHOUSAN,3.52,0.65,744.6,High
+China,YANGZHOU,CNYZH,945,654,786,47,Port,East China Sea,Central China,YANG ZHOU,30.64,0.66,585.4,High
+China,TIANJIN,CNTXG,868,409,428,225,Port,Bohai Sea,North China,TIAN JIN;  XINGANG;  XIN GANG;  TIANG JIN,3.72,1.04,379.80000000000007,High
+China,JINZHOU ANCH,-,863,192,292,5,Anchorage,Bohai Sea,North China,-,96.8,1.78,194.60000000000002,High
+Hong Kong,HONG KONG,HKHKG,833,766,753,202,Port,South China,South China,HONGKONG;  CN HKG;  XIANGGANG;  XIANG GANG,7.52,0.55,648.0,High
+Netherlands,AMSTERDAM,NLAMS,767,179,228,131,Port,North Sea,UK Coast & Atlantic,NLAMS,3.11,1.88,189.0,High
+China,LANSHAN,CNLSN,731,472,641,80,Port,Yellow Sea,North China,LAN SHAN;  LANQIAO,13.91,0.66,461.20000000000005,High
+China,JINGJIANG,CNTSI,716,679,843,62,Port,East China Sea,Central China,JING JIANG;  JIN JIANG,24.55,0.47,621.2,High
+Belgium,ANTWERP,BEANR,686,211,247,187,Port,Antwerp Area,UK Coast & Atlantic,ANTWERPEN;  BEANT;  ANVERS;  BEAAA,2.45,1.5,220.60000000000002,High
+China,QUANZHOU,CNQZJ,662,204,129,71,Port,East China Sea,South China,QUAN ZHOU;  SHIHU,4.69,1.99,147.4,High
+China,GUANGZHOU,CNGZG,638,234,296,132,Port,South China,South China,GUANG ZHOU;  NEIGANG;  SHIGANGAO,4.02,1.2,238.4,High
+China,HUANGHUA ANCH,-,602,344,399,1,Anchorage,Bohai Sea,North China,-,743.0,0.81,297.40000000000003,High
+China,FANGCHENG,CNFAN,562,259,336,81,Port,South China,South China,FANG CHENG;  FANG CHEN,7.35,0.94,254.2,High
+China,ZHANJIANG,CNZHA,550,45,83,105,Port,South China,South China,ZHAN JIANG,1.22,4.3,72.2,Medium
+China,NINGBO,CNNBG,534,480,576,366,Port,East China Sea,Central China,BEILUN;  ZHENHAI;  DA XIE;  CNNBO,2.89,0.51,495.59999999999997,High
+Singapore,SINGAPORE ANCH,Unknown,516,1271,1224,71,Anchorage,Singapore Area,Indonesia,ASPLU;  SELAT PAUH ANCH;  AEPB;  PEBGC,35.14,0.21,1012.2,High
+USA,FORT LAUDERDALE,USFLL,491,21,41,5,Port,US East Coast,US East Coast,FT LAUDERDALE;  LAUDERDALE;  FTLAUDERDALE,12.4,7.92,25.800000000000004,Low
+Turkey,ISTANBUL,TRIST,486,455,496,73,Canal,Marmara Sea,Black Sea,BOSPORUS;  BOSPHORUS;  TURKEY,13.03,0.51,395.0,High
+China,XIAMEN,CNXMG,465,162,164,123,Port,East China Sea,South China,XIA MEN;  XIA MEM;  CN XMN;  CNXMN,2.65,1.43,155.0,High
+China,CAOFEIDIAN,CNCFD,460,339,323,235,Port,Bohai Sea,North China,CAO FEI DIAN;  CAOFEDIAN;  C F D,2.82,0.69,311.8,High
+Korea,BUSAN,KRPUS,438,362,351,252,Port,North China,North China,PUSAN;  PUNSAN;  KR BUS;  BUZAN,2.83,0.61,335.6,High
+China,LIANYUNGANG,CNLYG,416,84,187,127,Port,Yellow Sea,North China,LIAN YUN GANG,2.13,1.54,133.8,High
+USA,SEATTLE,USSEA,407,158,170,31,Port,US West Coast,US West Coast,-,10.58,1.24,137.39999999999998,High
+China,SHIDAO,CNSHD,403,349,400,35,Port,Yellow Sea,North China,SHI DAO,21.4,0.54,306.6,High
+Korea,INCHEON,KRINC,391,149,204,121,Port,Yellow Sea,North China,INCHON,2.92,1.11,165.40000000000003,High
+Germany,HAMBURG,DEHAM,389,69,83,72,Port,Elbe River,UK Coast & Atlantic,DEHBU,2.11,2.56,75.2,High
+China,QINGDAO,CNQDG,387,202,212,290,Port,Yellow Sea,North China,QING DAO;  QIANWAN;  CNTAO;  CN TAO,1.43,0.93,223.60000000000002,High
+Taiwan,KAOHSIUNG,TWKHH,372,112,113,116,Port,South China,South China,KAO HSIUNG;  TWKSG;  KAO;  KHH,1.94,1.65,113.2,High
+USA,HOUSTON,USHOU,369,90,103,143,Port,Gulf of Mexico,Gulf of Mexico,BAYTOWN,1.35,1.91,105.80000000000001,High
+USA,SAN DIEGO,USSAN,369,53,69,25,Port,US West Coast,US West Coast,SANDIEGO;  MARINA CORTEZ;  HARBOR ISLAND WEST;  SUNROAD RESORT,4.88,3.02,53.800000000000004,Medium
+China,CHANGZHOU,CNCZX,364,319,403,52,Port,East China Sea,Central China,CHANG ZHOU,13.88,0.5,299.2,High
+USA,NEW YORK,USNYC,351,150,158,97,Port,Hudson River,US East Coast,BAYONNE USA;  USNWK;  NEWARK;  USEWR,3.18,1.14,142.6,High
+USA,NEW ORLEANS,USMSY,351,70,87,86,Port,Gulf of Mexico,Gulf of Mexico,NEWORLEANS;  NOLA;  NEW ORLEAN;  GRAND ISLE,1.83,2.24,80.0,High
+China,XINHUI,CNXIN,340,73,154,40,Port,South China,South China,CIVET,5.68,1.5,98.80000000000001,High
+China,MINHANG,CNMNG,332,197,256,24,Port,East China Sea,Central China,MIN HANG,18.88,0.73,186.00000000000003,High
+China,ZHENJIANG,CNZHE,321,926,952,119,Port,East China Sea,Central China,ZHEN JIANG;  ZHENG JIANG;  ZHEN JIAN,15.78,0.17,775.0,High
+China,TAIZHOU,CNTZO,319,45,92,160,Port,East China Sea,Central China,TAI ZHOU;  TAIZHUO;  JIAOJIANG,0.86,2.33,86.80000000000001,High
+China,TAICANG,CNTAG,312,496,501,147,Port,East China Sea,Central China,TAI CANG;  TAICANGGANG,6.78,0.31,428.2,High
+Korea,ULSAN,KRUSN,303,298,312,142,Port,North China,North China,-,4.3,0.5,272.4,High
+China,LAIZHOU BAY,-,300,75,103,4,Anchorage,Bohai Sea,North China,-,44.5,1.69,72.0,Medium
+Korea,YEOSU,KRYOS,284,311,353,161,Port,East China Sea,North China,YOSU,4.12,0.43,297.8,High
+China,TIANJIN ANCH,-,283,326,408,3,Anchorage,Bohai Sea,North China,-,244.67,0.39,294.20000000000005,High
+China,PINGTAN,Unknown,278,31,34,16,Port,East China Sea,South China,PINGTAN ISLAND,4.06,4.28,29.2,Low
+Spain,PALMA DE MALLORCA,ESPMI,276,73,76,15,Port,Balearic Sea,West Mediterranean,PALMA;  MALLORCA,9.93,1.85,62.60000000000001,Medium
+China,YANTAI,CNYTG,271,323,325,114,Port,Bohai Sea,North China,YAN TAI;  CN YNT,5.68,0.42,282.00000000000006,High
+China,ZHONGSHAN,CNZSN,271,146,181,33,Port,South China,South China,ZHONG SHAN,9.91,0.83,137.4,High
+China,DALIAN,CNDLC,266,197,208,188,Port,Yellow Sea,North China,CN DAG;  DA LIAN,2.15,0.66,199.6,High
+China,RIZHAO,CNRZH,265,296,320,110,Port,Yellow Sea,North China,RI ZHAO,5.6,0.43,268.4,High
+China,QINZHOU,CNQZH,262,110,98,77,Port,South China,South China,QIN ZHOU,2.7,1.26,98.60000000000001,High
+Netherlands,ROTTERDAM WAALHAVEN,NLWAL,260,148,184,6,Port,Rotterdam Area,UK Coast & Atlantic,HEIJPLAAT;  WAALHAVEN,55.33,0.78,134.0,High
+China,QINHUANGDAO,CNSHP,255,209,184,101,Port,Bohai Sea,North China,QIN HUANG DAO ;  QIN HUANG;  Q H D,3.89,0.65,177.40000000000003,High
+China,LONGKOU,CNLKU,255,432,493,55,Port,Bohai Sea,North China,LONG KOU,16.82,0.28,381.0,High
+United Arab Emirates,DUBAI,AEDXB,247,35,56,25,Port,Dubai Area,Arabian Gulf,PORTRASHID;  PORT RASHID;  DMC,3.64,2.71,41.400000000000006,Medium
+China,NINGBO ANCH,Unknown,243,160,208,0,Anchorage,East China Sea,Central China,-,inf,0.66,147.2,High
+China,HUANGHUA,CNHUH,231,95,114,97,Port,Bohai Sea,North China,HUANG HUA;  CNHNH,2.15,1.11,103.0,High
+China,DONG GUAN,CNDGG,231,84,102,94,Port,South China,South China,DONGGUAN;  SHA TIAN;  DONGWAN,1.98,1.24,93.2,High
+China,NANTONG ANCH,-,229,214,206,2,Anchorage,East China Sea,Central China,-,210.0,0.55,168.4,High
+China,WENZHOU ANCH,-,228,98,105,1,Anchorage,East China Sea,Central China,-,203.0,1.12,81.4,High
+China,HUIZHOU,CNHUI,226,72,86,104,Port,South China,South China,HUI ZHOU,1.52,1.43,84.0,High
+Netherlands,ENKHUIZEN,NLENK,221,188,196,2,Port,North Sea,UK Coast & Atlantic,-,192.0,0.58,154.00000000000003,High
+Vietnam,HAI PHONG,VNHPH,215,78,103,70,Port,South-East Asia,South-East Asia,HAIPHONG,2.59,1.19,86.4,High
+Canada,VANCOUVER,CAVAN,211,70,88,71,Port,West Coast Canada,West Coast Canada,VANCOUVER BC;  VANCOUVER CANADA,2.23,1.34,77.4,High
+China,MAJISHAN,CNMJS,206,197,227,22,Port,East China Sea,Central China,MAJI SHAN;  MA JI SHAN,19.27,0.49,174.00000000000003,High
+Russia,ST PETERSBURG,RULED,201,43,41,63,Port,Finland Gulf,"Inland, Russia",SANKT PETERSBURG;  SAINT PETERSBURG;  SANKT PETERBURG;  SPB,1.33,2.39,46.2,Medium
+Netherlands,HARLINGEN,NLHAR,200,83,129,34,Port,North Sea,UK Coast & Atlantic,WADDENZEE,6.24,0.94,91.60000000000001,High
+USA,MIAMI,USMIA,200,66,65,14,Port,US East Coast,US East Coast,-,9.36,1.53,55.2,Medium
+Romania,CONSTANTA,ROCND,198,30,18,78,Port,Black Sea,Black Sea,CONSTANZA;  KONSTANTA;  KONSTANZA;  CONSTANTZA,0.62,4.12,34.8,Medium
+China,YANGPU,CNYPG,197,75,76,56,Port,South China,South China,YANG PU;  YANPU,2.7,1.3,71.60000000000001,Medium
+China,ZHAPU,CNZAP,191,143,142,125,Port,East China Sea,Central China,ZHA PU;  HAIYAN;  HAI YAN;  JIAXING,2.28,0.67,139.0,High
+Indonesia,BATU AMPAR,IDBUR,187,128,124,40,Port,Singapore Area,Indonesia,BATAM;  BATUAMPAR;  SEKUPANG,6.3,0.74,108.80000000000001,High
+Indonesia,JAKARTA,IDJKT,186,95,116,81,Port,Java Sea,Indonesia,PRIOK;  TANJUNG PRIOK;  ID TPP;  TG PRIOK,2.6,0.88,100.60000000000001,High
+China,NANSHA,CNNSA,181,280,281,99,Port,South China,South China,NAN SHA,5.67,0.32,244.20000000000002,High
+Netherlands,ROTTERDAM,NLRTM,179,199,193,336,Port,Rotterdam Area,UK Coast & Atlantic,MAASDIJK;  EUROPOORT;  RDAM;  DINTELHAVEN,1.17,0.46,224.0,High
+USA,ANACORTES,USOTS,179,75,90,6,Port,West Coast Canada,West Coast Canada,-,27.5,1.08,67.2,Medium
+Korea,MOKPO,KRMOK,177,102,94,51,Port,Yellow Sea,North China,-,3.84,0.9,88.60000000000001,High
+Belgium,GHENT,BEGNE,176,86,74,42,Port,Antwerp Area,UK Coast & Atlantic,GENT;  BEGGG,3.81,1.1,72.4,High
+USA,NORFOLK,USORF,175,28,37,40,Port,US East Coast,US East Coast,-,1.62,2.69,34.0,Medium
+Spain,VALENCIA,ESVLC,173,40,41,30,Port,Balearic Sea,West Mediterranean,-,2.7,2.14,38.400000000000006,Medium
+China,FULING,CNFLG,173,15,45,14,Port,"Inland, China","Inland, China",-,4.29,2.88,26.8,Low
+China,CHANGSHU,CNCGU,171,282,296,47,Port,East China Sea,Central China,CHANG SHU;  CHAMGSHU,12.3,0.3,240.60000000000002,High
+Turkey,BODRUM,TRBXN,171,72,73,8,Port,Aegean Sea,East Mediterranean,-,18.12,1.18,59.6,Medium
+China,GAOGANG,CNGAO,171,123,118,3,Port,East China Sea,Central China,-,80.33,0.71,97.0,High
+Netherlands,DORDRECHT,NLDOR,170,86,100,10,Port,Rotterdam Area,UK Coast & Atlantic,DORDT;  DORDRECT,18.6,0.91,76.4,High
+China,NINGDE ANCH,-,170,110,120,4,Anchorage,East China Sea,South China,-,57.5,0.74,92.8,High
+China,WEIHAI,CNWEI,169,134,179,35,Port,Yellow Sea,North China,WEI HAI,8.94,0.54,132.20000000000002,High
+Russia,VLADIVOSTOK,RUVVO,168,55,65,79,Port,CIS Pacific,CIS Pacific,VLDV;  ZALIV VOSTOK;  VVO,1.52,1.4,63.8,Medium
+United Kingdom,PLYMOUTH,GBPLY,168,40,72,9,Port,English Channel,UK Coast & Atlantic,-,12.44,1.5,46.599999999999994,Medium
+China,JINGTANG ANCH,-,167,96,103,3,Anchorage,Bohai Sea,North China,-,66.33,0.84,80.2,High
+Italy,GENOVA,ITGOA,165,55,44,42,Port,Ligurean Sea,West Mediterranean,GENOA,2.36,1.67,48.0,Medium
+Vietnam,HO CHI MINH,VNSGN,163,42,63,60,Port,South-East Asia,South-East Asia,SAIGON;  CAT LAI;  HIEP PHUOC,1.75,1.55,54.0,Medium
+Spain,BARCELONA,ESBCN,162,119,122,32,Port,Balearic Sea,West Mediterranean,BARCELLONA ;  PORT BCN,7.53,0.67,102.80000000000001,High
+Indonesia,MUARA BERAU ANCH,IDMUB,162,59,61,6,Anchorage,Makassar Strait,Indonesia,-,20.0,1.35,49.2,Medium
+USA,FOURCHON,USFOC,160,58,86,68,Port,Gulf of Mexico,Gulf of Mexico,PORT FOURCHON;  FOUCHON,2.12,1.11,71.2,Medium
+Malaysia,PORT KLANG,MYPKG,158,91,106,143,Port,Malacca Strait,Indonesia,KLANG;  PKLANG;  PORT KELANG,1.38,0.8,107.4,High
+China,LIUHENG,CNLHE,158,312,304,27,Port,East China Sea,Central China,LIU HENG,22.81,0.26,251.80000000000004,High
+China,TONGLING,CNTOL,158,43,74,25,Port,"Inland, China","Inland, China",TONG LING,4.68,1.35,51.8,Medium
+China,MEIZHOU ISLAND,Unknown,156,205,256,1,Port,East China Sea,South China,-,461.0,0.34,184.6,High
+Turkey,ISTANBUL ANCH,-,154,169,164,1,Anchorage,Marmara Sea,Black Sea,-,333.0,0.46,133.4,High
+China,NANSHA ANCH,-,151,234,223,16,Anchorage,South China,South China,-,28.56,0.33,186.0,High
+Netherlands,ROTTERDAM BOTLEK,NLBOT,150,160,172,11,Port,Rotterdam Area,UK Coast & Atlantic,BOTLEK;  E PETROLEUMHAV,30.18,0.45,135.0,High
+Turkey,GOCEK,TRGCK,150,37,63,9,Port,East Mediterranean,East Mediterranean,-,11.11,1.5,41.8,Medium
+China,LANSHAN ANCH,-,150,300,309,1,Anchorage,Yellow Sea,North China,-,609.0,0.25,243.8,High
+Spain,LAS PALMAS,ESLPA,149,66,78,114,Port,West Africa,West Africa,LASPALMAS;  LA LUZ;  PUERTO DE LA LUZ,1.26,1.03,80.4,High
+China,LIANYUNGANG ANCH,-,149,116,102,4,Anchorage,Yellow Sea,North China,-,54.5,0.68,88.00000000000001,High
+Taiwan,TAICHUNG,TWTXG,148,112,70,67,Port,East China Sea,South China,TAI CHUNG,2.72,0.81,86.20000000000002,High
+China,ZHANGZHOU,CNZZU,148,80,84,38,Port,East China Sea,South China,ZHANG ZHOU,4.32,0.9,73.19999999999999,High
+Turkey,TUZLA,TRTUZ,148,53,59,14,Port,Marmara Sea,Black Sea,-,8.0,1.32,47.6,Medium
+India,MUMBAI ANCH,-,148,88,82,3,Anchorage,West Coast India,West Coast India,-,56.67,0.87,68.6,Medium
+USA,MARINA DEL REY,USMDX,146,39,57,1,Port,US West Coast,US West Coast,-,96.0,1.52,38.60000000000001,Medium
+Netherlands,ROTTERDAM CENTRUM,-,146,165,152,1,Port,Rotterdam Area,UK Coast & Atlantic,-,317.0,0.46,127.00000000000001,High
+Poland,GDANSK,PLGDN,145,75,92,36,Port,Baltic Sea,Baltic Sea,-,4.64,0.87,74.00000000000001,High
+Germany,ROSTOCK,DERSK,145,66,81,17,Port,Baltic Sea,Baltic Sea,ROSTOK;  WARNEMUNDE;  WARNEMUENDE,8.65,0.99,62.199999999999996,Medium
+China,HUANGPU,CNHUA,144,193,207,29,Port,South China,South China,HUANG PU;  MACHONG,13.79,0.36,165.8,High
+Sweden,STOCKHOLM,SESTO,144,98,100,6,Port,Baltic Sea,Baltic Sea,-,33.0,0.73,80.4,High
+USA,NEWPORT,USNOZ,144,104,104,4,Port,US East Coast,US East Coast,NEWPORT RI,52.0,0.69,84.0,High
+Russia,MURMANSK,RUMMK,143,44,52,55,Port,Barents Sea,North Coast CIS,-,1.75,1.49,49.400000000000006,Medium
+Germany,BREMERHAVEN,DEBRV,142,80,80,35,Port,Elbe River,UK Coast & Atlantic,BREMERHAFEN,4.57,0.89,71.0,Medium
+China,JIANGYIN ANCH,-,141,122,108,0,Anchorage,East China Sea,Central China,-,inf,0.61,92.0,High
+United Arab Emirates,FUJAIRAH ANCH,-,140,166,157,4,Anchorage,Oman Gulf,Arabian Gulf,-,80.75,0.43,130.00000000000003,High
+China,TAICANG ANCH,-,140,135,136,1,Anchorage,East China Sea,Central China,-,271.0,0.52,108.60000000000001,High
+China,QINHUANGDAO ANCH,-,140,108,121,0,Anchorage,Bohai Sea,North China,-,inf,0.61,91.60000000000001,High
+China,BEIHAI,CNBHY,139,48,67,31,Port,South China,South China,BEI HAI;  QIAO,3.71,1.21,52.2,Medium
+Australia,SYDNEY,AUSYD,139,303,306,27,Port,Coral Sea,East Australia,-,22.56,0.23,249.00000000000003,High
+USA,NEWPORT BEACH,USJNP,138,29,53,1,Port,US West Coast,US West Coast,-,82.0,1.68,33.00000000000001,Medium
+USA,CHARLESTON,USCHS,137,29,26,26,Port,US East Coast,US East Coast,-,2.12,2.49,27.2,Low
+Denmark,COPENHAGEN,DKCPH,137,43,53,7,Port,Kattegat,Baltic Sea,KOBENHAVN;  KOEBENHAVN,13.71,1.43,39.800000000000004,Medium
+Indonesia,TABONEO ANCH,IDTAB,133,72,69,33,Anchorage,Java Sea,Indonesia,TABONEO,4.27,0.94,63.00000000000001,Medium
+United Kingdom,GOSPORT,GBGOS,133,82,107,0,Port,English Channel,UK Coast & Atlantic,-,inf,0.7,75.60000000000001,High
+Netherlands,DEN HELDER,NLDHR,132,42,61,14,Port,North Sea,UK Coast & Atlantic,DENHELDER,7.36,1.28,44.0,Medium
+China,RIZHAO ANCH,-,130,332,326,1,Anchorage,Yellow Sea,North China,-,658.0,0.2,263.40000000000003,High
+Netherlands,LELYSTAD,NLLEY,129,114,121,5,Port,North Sea,UK Coast & Atlantic,-,47.0,0.55,95.0,High
+France,LA ROCHELLE VIEUX,Unknown,129,32,77,0,Port,Biscay Bay,UK Coast & Atlantic,-,inf,1.18,43.6,Medium
+Japan,YOKOHAMA,JPYOK,128,204,234,113,Port,Japan Coast,Japan Coast,NEGISHI;  YKHAMA,3.88,0.29,197.8,High
+Malta,VALLETTA,MTMLA,128,61,67,30,Port,West Mediterranean,West Mediterranean,VALETTA;  VALLETA;  VLT,4.27,1.0,57.2,Medium
+Netherlands,ROTTERDAM MAASVLAKTE,NLMSV,128,171,161,4,Port,Rotterdam Area,UK Coast & Atlantic,MAASVLAKTE;  EUROPAHAVEN,83.0,0.39,133.60000000000002,High
+China,QUANZHOU ANCH,-,128,108,105,2,Anchorage,East China Sea,South China,-,106.5,0.6,85.60000000000001,High
+Brazil,RIO DE JANEIRO,BRRIO,127,38,43,39,Port,East Coast South America,East Coast South America,RIODEJANEIRO;  RIO DE JAN;  RIO JANEIRO;  RIO,2.08,1.57,40.2,Medium
+China,CHONGQING,CNCQI,126,25,31,80,Port,"Inland, China","Inland, China",-,0.7,2.25,38.4,Medium
+Italy,LA SPEZIA,ITSPE,124,22,30,16,Port,Ligurean Sea,West Mediterranean,LASPEZIA,3.25,2.38,24.0,Low
+Japan,NAGOYA,JPNGO,122,115,114,105,Port,Japan Coast,Japan Coast,-,2.18,0.53,112.6,High
+Netherlands,IJMUIDEN,NLIJM,122,120,114,27,Port,North Sea,UK Coast & Atlantic,IJM NL,8.67,0.52,99.0,High
+China,HUANGPU ANCH,-,121,95,92,3,Anchorage,South China,South China,-,62.33,0.65,75.4,High
+China,ZHUJIAN KOU ANCH,-,120,193,194,13,Anchorage,South China,South China,-,29.77,0.31,157.4,High
+Brazil,SANTOS,BRSSZ,119,29,28,147,Port,East Coast South America,East Coast South America,BACIA DE SANTOS,0.39,2.09,52.2,Medium
+China,WENZHOU,CNWNZ,119,54,41,73,Port,East China Sea,Central China,WEN ZHOU;  YUHUAN,1.3,1.25,52.6,Medium
+USA,LOS ANGELES,USLAX,119,92,105,47,Port,US West Coast,US West Coast,LOSANGELES;  SAN PEDRO,4.19,0.6,88.20000000000002,High
+China,HUMEN,CNHMN,119,102,102,14,Port,South China,South China,HU MEN,14.57,0.58,84.4,High
+France,ANTIBES,FRANT,119,18,21,6,Port,Ligurean Sea,West Mediterranean,-,6.5,3.05,16.8,Low
+Thailand,BANGKOK,THBKK,118,47,41,33,Port,Gulf of Thailand,South-East Asia,BANGKONG;  THAILAND;  BKK,2.67,1.34,41.800000000000004,Medium
+Germany,KIEL,DEKEL,118,60,89,15,Port,Kiel Canal,Baltic Sea,-,9.93,0.79,62.6,Medium
+China,ZHOUSHAN ANCH,-,118,150,147,5,Anchorage,East China Sea,Central China,BEILUN ANCH;  ZHENHAI ANCH;  NINGBO ANCH;  JINTANG ANCH,59.4,0.4,119.80000000000001,High
+China,LONGHAI,CNLGI,118,34,5,2,Port,East China Sea,South China,LONG HAI,19.5,3.03,16.0,Low
+Philippines,MANILA ANCH,-,117,41,70,11,Anchorage,Philippines,Philippines,-,10.09,1.05,46.60000000000001,Medium
+United Kingdom,SOUTHAMPTON,GBSOU,116,126,119,30,Port,English Channel,UK Coast & Atlantic,MARCHWOOD,8.17,0.47,104.0,High
+Indonesia,BANJARMASIN,IDBDJ,116,35,67,25,Port,Java Sea,Indonesia,BANJAR,4.08,1.14,45.8,Medium
+Malta,MARSAMXETT,MTMSX,115,31,31,0,Port,West Mediterranean,West Mediterranean,-,inf,1.85,24.8,Low
+Russia,NOVOROSSIYSK,RUNVS,114,56,56,45,Port,Black Sea,Black Sea,NOVO;  NOVOROSIYSK;  NOVOROSSYISK;  NVRSK,2.49,1.02,53.800000000000004,Medium
+United Arab Emirates,FUJAIRAH,AEFJR,113,127,129,200,Port,Oman Gulf,Arabian Gulf,AL FUJAIRAH;  FUJAIRA,1.28,0.44,142.4,High
+China,JINZHOU,CNJNZ,113,193,114,47,Port,Bohai Sea,North China,JIN ZHOU,6.53,0.37,132.20000000000002,High
+China,WEIFANG,CNWEF,113,37,38,39,Port,Bohai Sea,North China,WEI FANG,1.92,1.51,37.8,Medium
+China,YIZHENG,CNYIZ,113,77,106,9,Port,East China Sea,Central China,YI ZHENG,20.33,0.62,75.0,High
+Greece,FLISVOS,-,113,13,35,3,Marina,Piraeus Area,East Mediterranean,-,16.0,2.35,19.8,Low
+Turkey,YALOVA,TRYAL,112,107,105,10,Port,Marmara Sea,Black Sea,-,21.2,0.53,86.80000000000001,High
+Argentina,BUENOS AIRES,ARBUE,111,37,33,10,Port,East Coast South America,East Coast South America,ZONA COMUN;  DOCK SUD,7.0,1.59,30.0,Low
+United Arab Emirates,MUSAFFAH,AEAMF,111,30,20,10,Port,Persian Gulf,Arabian Gulf,MUSAFAH;  MUSSAFAH;  MUSSAFFAH;  ESNAAD,5.0,2.22,22.0,Low
+Netherlands,MAKKUM,NLMAK,111,26,69,0,Port,North Sea,UK Coast & Atlantic,-,inf,1.17,38.0,Medium
+Netherlands,BRUINISSE,NLBSE,110,89,89,5,Port,North Sea,UK Coast & Atlantic,-,35.6,0.62,72.2,Medium
+Korea,PYEONGTAEK,KRPTK,109,28,30,77,Port,Yellow Sea,North China,PYONGTAEK;  PYEONG TAEK;  DANGJIN,0.75,1.88,38.6,Medium
+Vietnam,VUNG TAU,VNVUT,109,98,125,63,Port,South-East Asia,South-East Asia,VUNGTAU,3.54,0.49,101.80000000000001,High
+China,ZHUHAI,CNZUH,109,104,108,62,Port,South China,South China,ZHU HAI,3.42,0.51,97.20000000000002,High
+Australia,DARWIN,AUDRW,109,22,16,25,Port,Timor Sea,North Australia,-,1.52,2.87,20.200000000000003,Low
+China,CAOFEIDIAN ANCH,-,108,126,127,2,Anchorage,Bohai Sea,North China,-,126.5,0.43,101.60000000000002,High
+France,LE HAVRE,FRLEH,107,69,79,39,Port,English Channel,UK Coast & Atlantic,LEHAVRE,3.79,0.72,67.0,Medium
+Poland,SZCZECIN,PLSZZ,107,18,24,17,Port,Baltic Sea,Baltic Sea,STETTIN,2.47,2.55,20.200000000000003,Low
+Norway,OSLO,NOOSL,107,73,81,13,Port,Skagerrak,Norwegian Coast,-,11.85,0.69,64.2,Medium
+USA,GALVESTON,USGLS,106,123,130,24,Port,Gulf of Mexico,Gulf of Mexico,-,10.54,0.42,106.0,High
+Germany,CUXHAVEN,DECUX,105,45,55,15,Port,Elbe River,UK Coast & Atlantic,CUXHAFEN;  CUX,6.67,1.05,43.0,Medium
+Indonesia,JAKARTA ANCH,-,105,52,71,0,Anchorage,Java Sea,Indonesia,-,inf,0.85,49.2,Medium
+South Africa,CAPE TOWN,ZACPT,104,56,58,43,Port,South Africa,South Africa,CAPETOWN,2.65,0.91,54.20000000000001,Medium
+USA,SHILSHOLE,-,104,31,41,0,Port,US West Coast,US West Coast,SHILSHOLE BAY,inf,1.44,28.800000000000004,Low
+Sweden,GOTEBORG,SEGOT,103,52,63,25,Port,Kattegat,Baltic Sea,GOTHENBURG;  GOTENBURG;  GOETEBORG;  GBG,4.6,0.9,51.0,Medium
+Germany,BERLIN,DEBER,103,18,20,13,Port,"Inland, Europe","Inland, Europe",-,2.92,2.71,17.8,Low
+Turkey,FETHIYE,TRFET,103,58,60,1,Port,East Mediterranean,East Mediterranean,-,118.0,0.87,47.400000000000006,Medium
+Poland,GDYNIA,PLGDY,102,54,48,26,Port,Baltic Sea,Baltic Sea,-,3.92,1.0,46.00000000000001,Medium
+China,YANTAI ANCH,-,102,264,266,3,Anchorage,Bohai Sea,North China,-,176.67,0.19,212.6,High
+Russia,KAVKAZ SOUTH ANCH,Unknown,101,48,56,6,Anchorage,Azov Sea,Black Sea,-,17.33,0.97,42.80000000000001,Medium
+China,BAYUQUAN,CNBAY,100,120,87,92,Port,Bohai Sea,North China,BAYU QUAN;  BA YU QUAN;  BYQ;  B Y Q,2.25,0.48,101.20000000000002,High
+Bahrain,SITRAH,BHSIT,100,44,41,6,Port,Persian Gulf,Arabian Gulf,SITRA,14.17,1.18,35.2,Medium
+China,XINSHA,CNXNA,99,66,70,18,Port,South China,South China,XIN SHA,7.56,0.73,58.00000000000001,Medium
+Germany,DUISBURG,DEDUI,98,63,78,17,Port,"Inland, Europe","Inland, Europe",-,8.29,0.7,59.800000000000004,Medium
+United Kingdom,LYMINGTON,GBLYM,98,72,76,0,Port,English Channel,UK Coast & Atlantic,-,inf,0.66,59.2,Medium
+Netherlands,LEMMER,NLLMR,97,81,83,2,Port,North Sea,UK Coast & Atlantic,-,82.0,0.59,66.0,Medium
+Australia,BRISBANE,AUBNE,96,18,24,53,Port,Coral Sea,East Australia,-,0.79,2.29,27.400000000000002,Low
+China,SHEKOU,CNSHK,96,159,156,47,Port,South China,South China,SHE KOU;  CNSKU,6.7,0.3,135.4,High
+France,BREST,FRBES,96,38,66,6,Port,Biscay Bay,UK Coast & Atlantic,-,17.33,0.92,42.800000000000004,Medium
+China,HONGWAN,CNHGW,96,31,47,3,Port,South China,South China,HONG WAN,26.0,1.23,31.800000000000004,Low
+Belgium,ZEEBRUGGE,BEZEE,95,41,45,36,Port,North Sea,UK Coast & Atlantic,-,2.39,1.1,41.60000000000001,Medium
+Portugal,LISBOA,PTLIS,95,158,173,20,Port,UK Coast & Atlantic,UK Coast & Atlantic,LISBON,16.55,0.29,136.4,High
+United Kingdom,MERCURY,-,94,24,62,0,Marina,English Channel,UK Coast & Atlantic,SOUTHAMPTON;  HAMPSHI,inf,1.09,34.400000000000006,Medium
+Hungary,BUDAPEST,HUBUD,93,17,21,38,Port,"Inland, Europe","Inland, Europe",-,1.0,2.45,22.8,Low
+Spain,VIGO,ESVGO,93,65,75,31,Port,UK Coast & Atlantic,UK Coast & Atlantic,-,4.52,0.66,62.2,Medium
+USA,BOSTON,USBOS,93,67,72,11,Port,US East Coast,US East Coast,-,12.64,0.67,57.800000000000004,Medium
+Macao,MACAU,MOMFM,93,48,46,5,Port,South China,South China,HK-MACAU,18.8,0.99,38.60000000000001,Medium
+China,DALIAN ANCH,-,93,123,123,4,Anchorage,Yellow Sea,North China,-,61.5,0.38,99.2,High
+China,BAYUQUAN ANCH,-,93,61,108,2,Anchorage,Bohai Sea,North China,-,84.5,0.55,68.00000000000001,Medium
+Colombia,CARTAGENA,COCTG,92,126,136,33,Port,North Coast South America,North Coast South America,MAMONAL;  CARTAGENA COLOMBIA,7.94,0.35,111.4,High
+Saudi Arabia,DAMMAM,SADMM,92,35,39,21,Port,Persian Gulf,Arabian Gulf,AD DAMMAM,3.52,1.24,33.800000000000004,Medium
+USA,PORTLAND OR,USPDX,92,45,64,17,Port,US West Coast,US West Coast,PORTLAND;  LINNTON,6.41,0.84,47.0,Medium
+United Kingdom,LONDON,GBLON,92,112,110,11,Port,North Sea,UK Coast & Atlantic,-,20.18,0.41,91.00000000000001,High
+Monaco,MONACO,MCMON,92,42,50,9,Port,Ligurean Sea,West Mediterranean,PORT HERCULE,10.22,1.0,38.599999999999994,Medium
+China,QUSHAN,Unknown,92,121,120,7,Port,East China Sea,Central China,QUSHAN ISLAND,34.43,0.38,97.80000000000001,High
+Belgium,NIEUWPOORT,BENIE,92,36,45,2,Port,English Channel,UK Coast & Atlantic,-,40.5,1.14,32.8,Medium
+Netherlands,HELLEVOETSLUIS,NLHSL,92,34,56,0,Port,Rotterdam Area,UK Coast & Atlantic,-,inf,1.02,36.0,Medium
+Russia,ASTRAKHAN,RUASF,91,3,15,24,Port,Caspian Sea,Caspian Sea,ASTRAHAN;  ASTRAXAN,0.75,5.06,12.0,Low
+USA,TACOMA,USTIW,91,30,39,17,Port,US West Coast,US West Coast,-,4.06,1.32,31.0,Low
+Netherlands,MEDEMBLIK,NLMDM,91,74,63,1,Port,North Sea,UK Coast & Atlantic,-,137.0,0.66,55.00000000000001,Medium
+Australia,CORAL SEA MARINA,AUALP,91,44,39,0,Marina,East Australia,East Australia,-,inf,1.1,33.2,Medium
+Gibraltar,GIBRALTAR,GIGIB,90,79,89,100,Port,Gibraltar,West Mediterranean,-,1.68,0.54,87.2,High
+Senegal,DAKAR,SNDKR,90,12,20,39,Port,West Africa,West Africa,-,0.82,2.81,20.6,Low
+Korea,GWANGYANG,KRKAN,89,78,80,76,Port,East China Sea,North China,KWANGYANG;  KRKWA,2.08,0.56,78.4,High
+Uruguay,MONTEVIDEO,UYMVD,89,10,11,22,Port,East Coast South America,East Coast South America,PUERTO DE MONTEVIDEO,0.95,4.24,12.8,Low
+Belgium,OOSTENDE,BEOST,89,41,56,11,Port,English Channel,UK Coast & Atlantic,OSTEND;  OSTENDE,8.82,0.92,41.00000000000001,Medium
+China,DONGYING,CNDGY,88,73,83,113,Port,Bohai Sea,North China,DONG YING;  DONGYINY,1.38,0.56,85.0,High
+France,MARSEILLE,FRMRS,88,72,91,11,Port,West Mediterranean,West Mediterranean,-,14.82,0.54,67.4,Medium
+Argentina,MAR DEL PLATA,ARMDQ,88,4,12,10,Port,East Coast South America,East Coast South America,PTO MAR DEL PLATA,1.6,5.5,8.4,Low
+Spain,DENIA,ESDNA,88,17,11,9,Port,Balearic Sea,West Mediterranean,-,3.11,3.14,13.000000000000002,Low
+India,MUMBAI,INBOM,87,75,74,64,Port,West Coast India,West Coast India,BOMBAY,2.33,0.58,72.4,High
+Mauritius,PORT LOUIS,MUPLU,87,23,27,32,Port,East Africa,East Africa,-,1.56,1.74,26.4,Low
+Korea,POHANG,KRKPO,87,69,70,30,Port,North China,North China,KR POHANG,4.63,0.63,61.6,Medium
+Ukraine,IZMAIL,UAIZM,87,18,17,19,Port,Black Sea,Black Sea,-,1.84,2.49,17.8,Low
+Bahrain,MUHARRAQ,BHGBQ,87,8,6,1,Port,Persian Gulf,Arabian Gulf,AL MUHARRAQ,14.0,6.21,5.800000000000001,Low
+China,LUOYUAN,CNLYA,86,30,35,19,Port,East China Sea,South China,LUO YUAN,3.42,1.32,29.8,Low
+China,CHENJIAGANG,CNCIG,86,29,23,12,Port,Yellow Sea,North China,GUAN HE,4.33,1.65,23.200000000000003,Low
+United Kingdom,FALMOUTH,GBFAL,86,39,54,5,Port,Celtic Sea,UK Coast & Atlantic,NORTH END SHIPYARD,18.6,0.92,38.2,Medium
+China,SANYA,CNSYX,86,0,5,3,Port,South China,South China,SAN YA,1.67,17.2,2.6,Low
+China,SANSHAN,CNNHS,86,48,41,1,Port,East China Sea,"Inland, China",-,89.0,0.97,35.80000000000001,Medium
+Japan,TOKYO,JPTYO,85,73,88,89,Port,Japan Coast,Japan Coast,JAPAN,1.81,0.53,82.2,High
+Spain,CADIZ,ESCAD,85,139,133,11,Port,Gibraltar,UK Coast & Atlantic,-,24.73,0.31,111.00000000000001,High
+USA,PALM BEACH,USPAB,85,15,16,4,Port,US East Coast,US East Coast,-,7.75,2.74,13.200000000000001,Low
+USA,LONG BEACH,USLGB,84,133,147,62,Port,US West Coast,US West Coast,LONGBEACH,4.52,0.3,124.4,High
+Japan,KOBE,JPUKB,84,128,119,59,Port,Japan Coast,Japan Coast,-,4.19,0.34,110.60000000000001,High
+Qatar,RAS LAFFAN,QARLF,84,45,48,40,Port,Persian Gulf,Arabian Gulf,AD-DAHIRAH;  RASLAFFAN;  RAS LAFAN,2.33,0.9,45.2,Medium
+USA,BALTIMORE,USBAL,84,44,45,30,Port,US East Coast,US East Coast,-,2.97,0.94,41.6,Medium
+Spain,CARTAGENA,ESCAR,84,36,35,24,Port,West Mediterranean,West Mediterranean,ESCOMBRERAS;  ESESC,2.96,1.18,33.2,Medium
+China,SONGMEN,CNSMN,84,24,32,11,Port,East China Sea,Central China,-,5.09,1.5,24.6,Low
+USA,LAKE CHARLES,USLCH,83,48,48,11,Port,Gulf of Mexico,Gulf of Mexico,-,8.73,0.86,40.60000000000001,Medium
+United Kingdom,HAMBLE POINT,-,83,51,78,0,Marina,English Channel,UK Coast & Atlantic,SOUTHAMPTON;  HAMPSHI,inf,0.64,51.60000000000001,Medium
+Brazil,SANTOS ANCH,Unknown,83,23,22,0,Anchorage,East Coast South America,East Coast South America,-,inf,1.84,18.0,Low
+China,JINGTANG,CNTGS,82,57,61,75,Port,Bohai Sea,North China,TANGSHAN;  JING TANG;  JIN TANG;  CNTAS,1.57,0.69,62.2,Medium
+Netherlands,TERNEUZEN,NLTNZ,82,158,148,29,Port,Antwerp Area,UK Coast & Atlantic,-,10.55,0.27,128.20000000000002,High
+Germany,HEILIGENHAFEN,DEHHF,82,26,32,2,Port,Baltic Sea,Baltic Sea,-,29.0,1.41,23.6,Low
+United Arab Emirates,SHARJAH ANCH,-,82,59,52,2,Anchorage,Dubai Area,Arabian Gulf,-,55.5,0.74,44.800000000000004,Medium
+Belgium,ANTWERP ANCH,-,82,52,38,0,Anchorage,North Sea,UK Coast & Atlantic,-,inf,0.91,36.0,Medium
+Australia,MANLY HARBOUR,Unknown,82,6,22,0,Marina,Coral Sea,East Australia,MANLY BRISBANE,inf,2.93,11.200000000000001,Low
+China,XIAMEN ANCH,-,82,59,77,0,Anchorage,East China Sea,South China,-,inf,0.6,54.400000000000006,Medium
+Norway,BERGEN,NOBGO,81,66,70,19,Port,North Sea,Norwegian Coast,DAMSGARD,7.16,0.6,58.2,Medium
+Norway,TROMSO,NOTOS,81,38,55,10,Port,Norwegian Coast,Norwegian Coast,TROMSE,9.3,0.87,39.2,Medium
+China,DONGJIAKOU,CNDJK,80,94,100,50,Port,Yellow Sea,North China,DONGJIA KOU,3.88,0.41,87.6,High
+Finland,HELSINKI,FIHEL,80,101,123,13,Port,Finland Gulf,Baltic Sea,-,17.23,0.36,92.2,High
+Egypt,SUEZ CANAL,EGSUZ,79,30,75,409,Canal,East Mediterranean,East Mediterranean,SUEZ;  EGSZC;  EGSUC;  EGSCN,0.26,0.75,123.80000000000001,High
+Indonesia,PALEMBANG,IDPLM,79,31,26,30,Port,Java Sea,Indonesia,PLAJU,1.9,1.39,28.8,Low
+China,HUIZHOU ANCH,-,79,60,57,8,Anchorage,South China,South China,-,14.62,0.68,48.4,Medium
+France,SAINT TROPEZ,FRSTP,79,54,86,6,Marina,Ligurean Sea,West Mediterranean,ST TROPEZ,23.33,0.56,57.2,Medium
+USA,BELLINGHAM,USBLI,79,29,37,5,Port,West Coast Canada,West Coast Canada,-,13.2,1.2,27.400000000000002,Low
+Thailand,SRIRACHA ANCH,-,79,36,32,3,Anchorage,Gulf of Thailand,South-East Asia,-,22.67,1.16,27.800000000000004,Low
+Greece,PIRAEUS,GRPIR,78,117,122,66,Port,Piraeus Area,East Mediterranean,PIRAEVS;  PIREAS;  KERATSINI;  ATHENS,3.62,0.33,108.80000000000001,High
+China,JIMIYA,CNJIM,78,166,162,3,Port,Yellow Sea,North China,JI MI YA,109.33,0.24,131.79999999999998,High
+China,FANGCHENG ANCH,-,78,110,120,2,Anchorage,South China,South China,-,115.0,0.34,92.4,High
+Thailand,LAEM CHABANG,THLCH,77,54,57,56,Port,Gulf of Thailand,South-East Asia,LAEMCHABANG;  LEAM CHABANG;  LAC;  LCB,1.98,0.69,55.60000000000001,Medium
+Netherlands,VLISSINGEN,NLVLI,77,40,49,46,Port,Antwerp Area,UK Coast & Atlantic,FLUSHING,1.93,0.87,44.800000000000004,Medium
+Germany,BREMEN,DEBRE,77,22,24,17,Port,North Sea,"Inland, Europe",-,2.71,1.67,21.800000000000004,Low
+France,PARIS,FRPAR,77,16,16,16,Port,"Inland, Europe","Inland, Europe",-,2.0,2.41,16.0,Low
+Australia,PORT HEDLAND,AUPHE,76,59,72,95,Port,Timor Sea,West Australia,PORT HEADLAND;  HEDLAND,1.38,0.58,71.4,Medium
+Australia,GLADSTONE,AUGLT,76,16,14,51,Port,Coral Sea,East Australia,-,0.59,2.53,22.200000000000003,Low
+Panama,PANAMA ANCH PACIFIC,-,76,82,81,0,Anchorage,Panama Canal,West Coast Central America,-,inf,0.47,65.2,Medium
+India,SIKKA,INSIK,75,6,4,24,Port,West Coast India,West Coast India,-,0.42,7.5,8.8,Low
+China,XIUYU,CNXIU,75,16,20,22,Port,East China Sea,South China,XIU YU;  MEI ZHOU WAN;  MEIZHOUWAN;  MEI ZHOU,1.64,2.08,18.8,Low
+Netherlands,HOORN,NLHRN,75,58,41,1,Port,North Sea,UK Coast & Atlantic,-,99.0,0.76,39.80000000000001,Medium
+Bangladesh,CHITTAGONG ANCH,-,75,22,18,0,Anchorage,Bengal Bay,East Coast India,-,inf,1.88,16.0,Low
+Japan,OSAKA,JPOSA,74,93,109,63,Port,Japan Coast,Japan Coast,SAKAI,3.21,0.37,93.4,High
+Indonesia,SURABAYA,IDSUB,74,54,58,53,Port,Java Sea,Indonesia,TANJUNG PERAK,2.11,0.66,55.400000000000006,Medium
+Saudi Arabia,RAS TANURA,SARTA,74,25,16,38,Port,Persian Gulf,Arabian Gulf,RASTANURA;  RASTANURAH;  JUAYMAH,1.08,1.8,24.0,Low
+Lithuania,KLAIPEDA,LTKLJ,74,37,37,25,Port,Baltic Sea,Baltic Sea,-,2.96,1.0,34.6,Medium
+South Africa,DURBAN,ZADUR,73,20,20,68,Port,South Africa,South Africa,-,0.59,1.82,29.6,Low
+Nigeria,LAGOS,NGLOS,73,14,23,40,Port,Gulf of Guinea,West Africa,APAPA;  NIGERIA;  TINCAN;  TIN CAN,0.92,1.97,22.8,Low
+United Arab Emirates,SHARJAH,AESHJ,73,41,52,17,Port,Persian Gulf,Arabian Gulf,MINA KHALID;  PORT KHALID;  KHALID;  AEMKH,5.47,0.78,40.6,Medium
+Turkey,CANAKKALE,TRCKZ,73,10,38,14,Canal,Aegean Sea,East Mediterranean,DARDANELLES;  DARDANELES;  DARDANELLE,3.43,1.52,22.000000000000004,Low
+China,TAIXING,CNTAX,73,29,46,14,Port,East China Sea,Central China,TAI XING,5.36,0.97,32.800000000000004,Medium
+Norway,MYRE,NOMYR,73,18,13,5,Port,Norwegian Coast,Norwegian Coast,-,6.2,2.35,13.4,Low
+Netherlands,STAVOREN,NLSTA,73,79,73,1,Port,North Sea,UK Coast & Atlantic,-,152.0,0.48,61.00000000000001,Medium
+China,NINGDE,CNNDE,72,34,36,86,Port,East China Sea,South China,NING DE;  BAIMA,0.81,1.03,45.2,Medium
+China,SHENZHEN,CNSZX,72,166,198,55,Port,South China,South China,SHEN ZHEN,6.62,0.2,156.60000000000002,High
+India,HAZIRA,INHZR,72,67,71,27,Port,West Coast India,West Coast India,SURAT;  GANDHAR,5.11,0.52,60.6,Medium
+Spain,IBIZA,ESIBZ,72,96,92,22,Port,Balearic Sea,West Mediterranean,IBZ,8.55,0.38,79.60000000000002,High
+Thailand,PHUKET,THHKT,72,29,25,2,Port,Andaman Sea,South-East Asia,-,27.0,1.33,22.0,Low
+Spain,ALGECIRAS,ESALG,71,191,202,93,Port,Gibraltar,West Mediterranean,-,4.23,0.18,175.8,High
+Chile,PUERTO MONTT,CLPMC,71,21,22,15,Port,West South America,West South America,PTO MONTT,2.87,1.65,20.200000000000003,Low
+Ukraine,RENI,UARNI,71,3,5,14,Port,"Inland, Europe","Inland, Europe",-,0.57,8.88,6.0,Low
+USA,HONOLULU,USHNL,71,32,33,10,Port,Hawaii,North Pacific,-,6.5,1.09,28.0,Low
+USA,EVERETT,USPAE,71,16,25,8,Port,US West Coast,US West Coast,-,5.12,1.73,18.0,Low
+France,LORIENT,FRLRT,71,38,59,8,Port,Biscay Bay,UK Coast & Atlantic,-,12.12,0.73,40.400000000000006,Medium
+China,JINTANG,Unknown,71,35,46,3,Port,East China Sea,Central China,JINTANG ISLAND,27.0,0.88,33.00000000000001,Medium
+Greece,ZEA,GRMAZ,71,8,14,2,Marina,Piraeus Area,East Mediterranean,ZEA MARINA;  MARINA ZEAS,11.0,3.23,9.200000000000001,Low
+Norway,STAVANGER,NOSVG,70,95,113,11,Port,North Sea,Norwegian Coast,-,18.91,0.34,85.4,High
+United Arab Emirates,ZAKUM,-,70,34,35,11,Port,Persian Gulf,Arabian Gulf,ZUKUM;  ZAKUM FIELD;  ZAKKUM,6.27,1.01,29.8,Low
+USA,PORTLAND ME,USPWM,70,38,45,2,Port,US East Coast,US East Coast,PORTLAND,41.5,0.84,33.6,Medium
+United Arab Emirates,JEBEL ALI,AEJEA,69,64,60,75,Port,Persian Gulf,Arabian Gulf,JEBELALI;  JEBAL ALI;  JABAL ALI,1.65,0.56,64.6,Medium
+Italy,LIVORNO,ITLIV,69,28,28,37,Port,Ligurean Sea,West Mediterranean,-,1.51,1.23,29.800000000000004,Low
+Argentina,RECALADA,-,69,18,12,37,Anchorage,East Coast South America,East Coast South America,-,0.81,2.3,19.4,Low
+Saudi Arabia,DAMMAM ANCH,-,69,31,36,0,Anchorage,Persian Gulf,Arabian Gulf,-,inf,1.03,26.8,Low
+USA,HOUSTON ANCH,-,69,45,41,0,Anchorage,Gulf of Mexico,Gulf of Mexico,-,inf,0.8,34.400000000000006,Medium
+Netherlands,MONNICKENDAM,NLMNN,69,29,43,0,Port,North Sea,UK Coast & Atlantic,-,inf,0.96,28.8,Low
+Canada,HALIFAX,CAHAL,68,18,19,39,Port,East Coast Canada,East Coast Canada,DARTMOUTH;  DARTMOUTH CA,0.95,1.84,22.6,Low
+China,LAIZHOU,CNLZO,68,150,160,25,Port,Bohai Sea,North China,LAI ZHOU,12.4,0.22,129.0,High
+Latvia,RIGA,LVRIX,68,29,26,23,Port,Baltic Sea,Baltic Sea,-,2.39,1.24,26.6,Low
+Norway,BATSFJORD,NOBJF,68,17,15,6,Port,Norwegian Coast,Norwegian Coast,-,5.33,2.12,14.0,Low
+Guernsey,GUERNSEY,GGGCI,68,24,31,1,Port,English Channel,UK Coast & Atlantic,-;  SAINT PETER;  ST PETER PORT,55.0,1.24,22.2,Low
+China,CHANGSHU ANCH,-,68,154,154,0,Anchorage,East China Sea,Central China,-,inf,0.22,123.2,High
+United Kingdom,COWES,GBCOW,68,152,106,0,Port,English Channel,UK Coast & Atlantic,-,inf,0.26,103.20000000000002,High
+Jersey,ST HELIER,JESTH,67,28,28,7,Port,English Channel,UK Coast & Atlantic,JERSEY,8.0,1.2,23.8,Low
+Peru,CALLAO ANCH,-,67,48,53,3,Anchorage,West South America,West South America,-,33.67,0.66,41.00000000000001,Medium
+Hong Kong,HONG KONG ANCH,-,67,117,112,3,Anchorage,South China,South China,-,76.33,0.29,92.2,High
+China,QINGDAO ANCH,-,67,120,91,2,Anchorage,Yellow Sea,North China,-,105.5,0.32,84.80000000000001,High
+Germany,NEUSTADT,DENDT,67,20,27,1,Port,Baltic Sea,Baltic Sea,-,47.0,1.43,19.0,Low
+Saudi Arabia,JEDDAH,SAJED,66,37,37,53,Port,Red Sea,Red Sea,RED SEA,1.4,0.89,40.2,Medium
+Denmark,SKAGEN,DKSKA,66,28,44,37,Port,Kattegat,Baltic Sea,SKAW,1.95,0.92,36.2,Medium
+USA,OAKLAND,USOAK,66,36,44,19,Port,US West Coast,US West Coast,-,4.21,0.82,35.8,Medium
+Bulgaria,VARNA,BGVAR,66,6,7,15,Port,Black Sea,Black Sea,BELOSLAV FERRY;  WARNA;  EZEROVO;  LESPORT,0.87,5.08,8.200000000000001,Low
+Australia,FREMANTLE,AUFRE,66,58,59,12,Port,West Australia,West Australia,-,9.75,0.56,49.2,Medium
+Vietnam,NGHI SON,VNNGH,66,17,20,11,Port,South-East Asia,South-East Asia,THANH HOA;  VN THO;  THANH HAO,3.36,1.78,17.0,Low
+Netherlands,LELYSTAD HAVEN,-,66,34,45,4,Port,North Sea,UK Coast & Atlantic,-,19.75,0.84,32.4,Medium
+Netherlands,SNEEK,NLSNK,66,36,46,2,Port,North Sea,UK Coast & Atlantic,-,41.0,0.8,33.2,Medium
+USA,CHANNEL ISLANDS,-,66,18,24,0,Port,US West Coast,US West Coast,-,inf,1.57,16.8,Low
+China,HUANGGE,CNHGE,66,42,42,0,Port,South China,South China,HUANG GE,inf,0.79,33.6,Medium
+Turkey,ISKENDERUN,TRISK,65,60,61,58,Port,East Mediterranean,East Mediterranean,ISDEMIR;  AZGANLIK;  SARISEKI,2.09,0.54,60.00000000000001,Medium
+Russia,MOSCOW,RUMOW,65,8,9,10,Port,"Inland, Russia","Inland, Russia",MOSKVA,1.7,3.82,8.8,Low
+United Kingdom,GRIMSBY,GBGSY,65,36,61,6,Port,North Sea,UK Coast & Atlantic,-,16.17,0.67,40.00000000000001,Medium
+Netherlands,DEN OEVER,NLWRG,65,62,52,5,Port,North Sea,UK Coast & Atlantic,-,22.8,0.57,46.6,Medium
+Germany,NORD-OSTSEE-KANAL,DECKL,65,84,82,5,Canal,Kiel Canal,UK Coast & Atlantic,KIEL CANAL,33.2,0.39,67.4,Medium
+Australia,HOPE ISLAND,AUHPL,65,10,11,1,Port,Coral Sea,East Australia,-,21.0,3.1,8.6,Low
+USA,GIG HARBOR,USGGZ,65,15,25,0,Marina,US West Coast,US West Coast,PENINSULA BASIN;  SEATTLE AT GIG,inf,1.62,16.0,Low
+Bangladesh,CHITTAGONG,BDCGP,64,17,13,105,Port,Bengal Bay,East Coast India,CHATTOGRAM,0.29,2.13,33.0,Medium
+Panama,PANAMA CANAL,PAPCN,64,149,140,77,Canal,Panama Canal,West Coast Central America,PANAMA;  PAN CANAL;  BARRO CALORADO;  MIRAFLORES,3.75,0.22,131.0,High
+Brazil,PARANAGUA,BRPNG,64,9,10,41,Port,East Coast South America,East Coast South America,-,0.46,3.37,15.8,Low
+France,FOS SUR MER,FRFOS,64,27,35,23,Port,West Mediterranean,West Mediterranean,FRFZS;  FOS FRANCE;  FOS SUR MER FRANCE;  FOS-SUR-MER,2.7,1.03,29.400000000000002,Low
+China,QIDONG,CNQID,64,12,19,20,Port,East China Sea,Central China,-,1.55,2.06,16.400000000000002,Low
+Malaysia,PENANG,MYPEN,64,48,52,16,Port,Malacca Strait,Indonesia,PRAI;  BUTTERWORTH;  PINANG;  MYPRA,6.25,0.64,43.2,Medium
+United Arab Emirates,HAMRIYA,AEHAM,64,8,6,14,Port,Persian Gulf,Arabian Gulf,AL HAMRIYA,1.0,4.57,8.4,Low
+Russia,PETROPAVLOVSK,RUPKC,64,15,11,10,Port,Bering Sea,CIS Pacific,KAMCHATSKY;  AVACHA;  KAMCHATSKIY,2.6,2.46,12.4,Low
+United Arab Emirates,KHOR FAKKAN ANCH,-,64,62,55,2,Anchorage,Oman Gulf,Arabian Gulf,-,58.5,0.55,47.199999999999996,Medium
+Taiwan,KAOHSIUNG ANCH,-,64,36,32,0,Anchorage,South China,South China,-,inf,0.94,27.200000000000003,Low
+Korea,DAESAN,KRTSN,63,69,65,49,Port,Yellow Sea,North China,SEOSAN,2.73,0.47,63.400000000000006,Medium
+Spain,TARRAGONA,ESTAR,63,45,26,35,Port,Balearic Sea,West Mediterranean,TARAGONA,2.03,0.89,35.4,Medium
+Portugal,LEIXOES,PTLEI,63,66,55,28,Port,UK Coast & Atlantic,UK Coast & Atlantic,MATOSINHOS,4.32,0.52,54.00000000000001,Medium
+China,CHANGXINDAO,CNCXD,63,29,29,18,Port,Bohai Sea,North China,CHANG XIN DAO;  CHANGXINGDAO;  CHANG XING DAO,3.22,1.09,26.800000000000004,Low
+USA,PORT ARTHUR,USPOA,63,47,49,16,Port,Gulf of Mexico,Gulf of Mexico,-,6.0,0.66,41.60000000000001,Medium
+USA,CHICAGO,USCHI,63,21,18,10,Port,Lake Michigan,Great Lakes,-,3.9,1.62,17.6,Low
+Netherlands,DELFZIJL,NLDZL,63,26,23,9,Port,North Sea,UK Coast & Atlantic,DELZIJL,5.44,1.29,21.400000000000002,Low
+Netherlands,SCHEVENINGEN,NLSCE,63,34,35,9,Port,Rotterdam Area,UK Coast & Atlantic,SCHEVENING,7.67,0.91,29.400000000000002,Low
+China,ZHANJIANG ANCH,-,63,27,21,3,Anchorage,South China,South China,-,16.0,1.31,19.800000000000004,Low
+Canada,FALSE CREEK,-,63,30,36,0,Marina,West Coast Canada,West Coast Canada,-,inf,0.95,26.4,Low
+Peru,CALLAO,PECLL,62,61,58,45,Port,West South America,West South America,-,2.64,0.52,56.60000000000001,Medium
+Australia,MELBOURNE,AUMEL,62,31,37,32,Port,Tasman Sea,East Australia,-,2.12,0.91,33.6,Medium
+India,MUNDRA,INMUN,62,38,40,31,Port,West Coast India,West Coast India,-,2.52,0.79,37.400000000000006,Medium
+Israel,HAIFA,ILHFA,62,26,20,20,Port,East Mediterranean,East Mediterranean,-,2.3,1.35,22.4,Low
+France,ROUEN,FRURO,62,15,28,17,Port,"Inland, Europe","Inland, Europe",-,2.53,1.44,20.6,Low
+China,XIANGSHAN,CNXSN,62,16,23,11,Port,East China Sea,Central China,XIANG SHAN,3.55,1.59,17.8,Low
+Denmark,HIRTSHALS,DKHIR,62,24,46,10,Port,Kattegat,UK Coast & Atlantic,-,7.0,0.89,30.000000000000004,Low
+Netherlands,ZAANDAM,NLZAA,62,33,33,4,Port,North Sea,UK Coast & Atlantic,-,16.5,0.94,27.200000000000003,Low
+Iran,BANDAR ABBAS ANCH,-,62,26,20,1,Anchorage,Persian Gulf,Arabian Gulf,-,46.0,1.35,18.599999999999998,Low
+China,LIJIANG,CNLIJ,62,31,51,1,Port,South China,South China,-,82.0,0.76,33.00000000000001,Medium
+Greece,GOUVIA,-,62,18,22,0,Marina,Ionian Sea,East Mediterranean,TZAVROS,inf,1.55,16.0,Low
+India,KOCHI,INCOK,61,38,43,26,Port,West Coast India,West Coast India,COCHIN;  INKOC,3.12,0.75,37.6,Medium
+USA,TAMPA,USTPA,61,23,21,17,Port,Gulf of Mexico,Gulf of Mexico,-,2.59,1.39,21.0,Low
+USA,JACKSONVILLE,USJAX,61,12,13,15,Port,US East Coast,US East Coast,-,1.67,2.44,13.0,Low
+Turkey,TUZLA ANCH,-,61,48,53,0,Anchorage,Marmara Sea,Black Sea,-,inf,0.6,40.400000000000006,Medium
+Italy,VENICE,ITVCE,60,30,28,28,Port,Adriatic Sea,Adriatic Sea,VENEZIA;  PORTO MARGHERA;  ITPMA;  MARGHERA,2.07,1.03,28.800000000000004,Low
+Saudi Arabia,AL JUBAIL,SAJUB,60,15,21,27,Port,Persian Gulf,Arabian Gulf,JUBAIL;  ALJUBAIL,1.33,1.67,19.8,Low
+China,HAIKOU,CNHAK,60,28,44,25,Port,South China,South China,HAI KOU,2.88,0.83,33.800000000000004,Medium
+Netherlands,MOERDIJK,NLMOE,60,28,38,20,Port,North Sea,UK Coast & Atlantic,-,3.3,0.91,30.400000000000002,Low
+Germany,WILHELMSHAVEN,DEWVN,60,15,22,17,Port,North Sea,UK Coast & Atlantic,JADE WESER,2.18,1.62,18.200000000000003,Low
+China,CHEK LAP KOK,CNTPO,60,113,114,9,Port,South China,South China,TAIPO;  TAI PO,25.22,0.26,92.60000000000001,High
+Germany,TRAVEMUNDE,DETRV,60,54,54,6,Port,Baltic Sea,Baltic Sea,TRAVEMUENDE,18.0,0.56,44.400000000000006,Medium
+Netherlands,AMSTERDAM ANCH,-,60,32,29,0,Anchorage,North Sea,UK Coast & Atlantic,IJMUIDEN ANCH,inf,0.98,24.400000000000002,Low
+Sri Lanka,COLOMBO,LKCMB,59,16,15,60,Port,Laccadive Sea,East Coast India,-,0.52,1.9,24.4,Low
+USA,CORPUS CHRISTI,USCRP,59,33,30,41,Port,Gulf of Mexico,Gulf of Mexico,C CHRISTI;  CORPUS CRISTI,1.54,0.94,33.400000000000006,Medium
+China,LUSHUN,CNLSH,59,85,94,16,Port,Bohai Sea,North China,LVSHUN;  LU SHUN,11.19,0.33,74.8,High
+Ecuador,GUAYAQUIL,ECGYE,59,10,11,13,Port,West South America,West South America,-,1.62,2.81,11.0,Low
+Germany,LUBECK,DELBC,59,24,39,9,Port,Baltic Sea,Baltic Sea,LUEBECK,7.0,0.94,27.000000000000004,Low
+Australia,CAIRNS,AUCNS,59,25,29,7,Port,Coral Sea,East Australia,-,7.71,1.09,23.0,Low
+Portugal,PORTIMAO,PTPRM,59,26,22,7,Port,UK Coast & Atlantic,UK Coast & Atlantic,-,6.86,1.23,20.6,Low
+Denmark,HANSTHOLM,DKHAN,59,9,31,6,Port,North Sea,UK Coast & Atlantic,-,6.67,1.48,17.2,Low
+United Kingdom,LOWESTOFT,GBLOW,59,25,34,3,Port,North Sea,UK Coast & Atlantic,BOULEVARD LEISURE CE,19.67,1.0,24.200000000000003,Low
+Guinea,KAMSAR ANCH,-,59,32,29,2,Anchorage,West Africa,West Africa,-,30.5,0.97,24.8,Low
+Canada,TORONTO,CATOR,59,9,9,1,Port,Lake Ontario,Great Lakes,-,18.0,3.28,7.4,Low
+Norway,KJOLLEFJORD,NOKJF,59,13,9,0,Port,Norwegian Coast,Norwegian Coast,-,inf,2.68,8.8,Low
+Togo,LOME ANCH,-,59,12,14,0,Anchorage,Gulf of Guinea,West Africa,-,inf,2.27,10.400000000000002,Low
+USA,MARINA PLAZA HARBOR,-,59,22,29,0,Marina,US West Coast,US West Coast,-;  SAUSALITO YACHT ;  ISSAQUAH DOCK;  LIBERTY DOCK,inf,1.16,20.400000000000002,Low
+Russia,ARKHANGELSK,RUARH,58,2,1,19,Port,White Sea,North Coast CIS,-,0.16,19.33,5.0,Low
+Korea,BUSAN NEW PORT,KRBNP,58,88,79,18,Port,North China,North China,PUSAN NEWPORT;  PUSAN NEW PORT;  KR PNC,9.28,0.35,70.4,Medium
+Italy,NAPOLI,ITNAP,58,31,30,16,Port,Tyrrhenian Sea,West Mediterranean,NAPLES,3.81,0.95,27.599999999999998,Low
+Spain,TORREVIEJA,ESTOR,58,22,23,6,Port,West Mediterranean,West Mediterranean,-,7.5,1.29,19.2,Low
+Vietnam,HON GAI ANCH,-,58,22,20,3,Anchorage,South-East Asia,South-East Asia,-,14.0,1.38,17.400000000000002,Low
+France,PORT DU CROUESTY,FRRZN,58,18,49,0,Port,Biscay Bay,UK Coast & Atlantic,ARZON,inf,0.87,26.8,Low
+Netherlands,ROTTERDAM ANCH,-,58,29,23,0,Anchorage,North Sea,UK Coast & Atlantic,-,inf,1.12,20.800000000000004,Low
+USA,WATERFORD HARBOR,-,58,11,17,0,Marina,Gulf of Mexico,Gulf of Mexico,SOUTH TEXAS SERVICES;  WATERGATE YACHTING,inf,2.07,11.200000000000001,Low
+Japan,MIZUSHIMA,JPMIZ,57,87,80,93,Port,Japan Coast,Japan Coast,-,1.8,0.34,85.4,High
+Russia,ROSTOV-ON-DON,RUROV,57,17,28,62,Port,Azov Sea,"Inland, Russia",ROSTOV ON DON;  ROSTOV,0.73,1.27,30.4,Low
+Denmark,ESBJERG,DKEBJ,57,60,69,15,Port,North Sea,UK Coast & Atlantic,-,8.6,0.44,54.6,Medium
+Netherlands,LAUWERSOOG,NLLAN,57,59,46,15,Port,North Sea,UK Coast & Atlantic,-,7.0,0.54,45.0,Medium
+Japan,TOKYO BAY,-,57,200,181,3,Anchorage,Japan Coast,Japan Coast,-,127.0,0.15,153.0,High
+United Kingdom,POOLE,GBPOO,57,29,46,1,Port,English Channel,UK Coast & Atlantic,-,75.0,0.76,30.200000000000003,Low
+Bahrain,GALALI,BHQAL,57,2,1,0,Port,Persian Gulf,Arabian Gulf,QALALI,inf,19.0,1.2000000000000002,Low
+United Kingdom,SOLENT,-,57,12,32,0,Port,English Channel,UK Coast & Atlantic,-,inf,1.3,17.6,Low
+Malaysia,TANJUNG PELEPAS ANCH,-,57,50,51,0,Anchorage,Singapore Area,Indonesia,-,inf,0.56,40.400000000000006,Medium
+Spain,CORUNA,ESLCG,56,43,41,20,Port,Biscay Bay,UK Coast & Atlantic,ACORUNA;  LA CORUNA;  A CORUNA,4.2,0.67,37.6,Medium
+Korea,GOHYEON,KRKHN,56,35,36,8,Port,North China,North China,GOHYUN;  GEOJE,8.88,0.79,30.0,Low
+China,LIAN JIANG,CNLNJ,56,37,25,3,Port,East China Sea,South China,LIANJIANG;  HUANGQI,20.67,0.9,25.400000000000002,Low
+Finland,TURKU,FITKU,56,10,14,2,Port,Bothnia Gulf,Baltic Sea,ABO,12.0,2.33,10.000000000000002,Low
+Canada,VAN ISLE,Unknown,56,15,24,0,Marina,West Coast Canada,West Coast Canada,-,inf,1.44,15.600000000000001,Low
+China,BINZHOU,CNBIN,55,44,42,38,Port,Bohai Sea,North China,BIN ZHOU;  TAOER RIVER PORT,2.26,0.64,42.00000000000001,Medium
+Russia,UST-LUGA,RUULU,55,43,42,37,Port,Finland Gulf,Baltic Sea,UST LUGA;  USTLUGA,2.3,0.65,41.4,Medium
+Angola,LUANDA,AOLAD,55,13,11,36,Port,West Africa,West Africa,ANGOLA,0.67,2.29,16.8,Low
+Russia,NAKHODKA,RUNJK,55,16,23,34,Port,CIS Pacific,CIS Pacific,NAHODKA,1.15,1.41,22.400000000000002,Low
+Ivory Coast,ABIDJAN,CIABJ,55,6,5,27,Port,Gulf of Guinea,West Africa,ABIJAN,0.41,5.0,9.8,Low
+Taiwan,TAIPEI,TWTPE,55,13,15,26,Port,East China Sea,South China,TAI PEI,1.08,1.96,16.4,Low
+Australia,TOWNSVILLE,AUTSV,55,57,62,13,Port,Coral Sea,East Australia,-,9.15,0.46,50.2,Medium
+Nigeria,PORT HARCOURT,NGPHC,55,16,15,2,Port,Gulf of Guinea,West Africa,HARCOURT;  PORTHARCOURT;  AMADI BASE;  AMADIBASE,15.5,1.77,12.8,Low
+United Kingdom,PORTLAND UK,GBPTL,55,22,28,1,Port,English Channel,UK Coast & Atlantic,PORTLAND,50.0,1.1,20.2,Low
+Netherlands,MUIDERZAND,-,55,19,39,0,Port,North Sea,UK Coast & Atlantic,-,inf,0.95,23.200000000000003,Low
+Mexico,DOS BOCAS,MXDBT,54,24,26,33,Port,Gulf of Mexico,Gulf of Mexico,DOSBOCAS,1.52,1.08,26.6,Low
+Canada,QUEBEC,CAQUE,54,17,21,20,Port,St. Lawrence River,East Coast Canada,SILLERY,1.9,1.42,19.200000000000003,Low
+New Caledonia,NOUMEA,NCNOU,54,29,33,14,Port,Coral Sea,East Australia,-,4.43,0.87,27.600000000000005,Low
+Germany,EMDEN,DEEME,54,29,38,12,Port,North Sea,UK Coast & Atlantic,-,5.58,0.81,29.200000000000003,Low
+Turkey,NEMRUT,TRNEM,54,46,44,11,Port,Aegean Sea,East Mediterranean,-,8.18,0.6,38.2,Medium
+Poland,SWINOUJSCIE,PLSWI,54,40,30,11,Port,Baltic Sea,Baltic Sea,-,6.36,0.77,30.2,Low
+Netherlands,MAASBRACHT,NLMSB,54,36,41,7,Port,"Inland, Europe","Inland, Europe",-,11.0,0.7,32.2,Medium
+Korea,YEOSU ANCH,-,54,121,100,7,Anchorage,East China Sea,North China,-,31.57,0.24,89.80000000000001,High
+Italy,SANREMO,ITSRE,54,9,7,5,Port,Ligurean Sea,West Mediterranean,SAN REMO,3.2,3.38,7.4,Low
+Netherlands,VOLENDAM,NLVOD,54,45,50,2,Port,North Sea,UK Coast & Atlantic,-,47.5,0.57,38.4,Medium
+USA,ALAMITOS BAY,-,54,12,26,0,Marina,US West Coast,US West Coast,LONG BEACH YACHT;  ALAMITOS;  NAPLES ISLAND;  CERRITOS BAHIA,inf,1.42,15.200000000000001,Low
+Netherlands,HINDELOOPEN,NLHLP,54,33,36,0,Port,North Sea,UK Coast & Atlantic,-,inf,0.78,27.6,Low
+Germany,LABOE,DELAB,54,34,50,0,Marina,Kiel Canal,Baltic Sea,-,inf,0.64,33.6,Medium
+Korea,TONGYEONG,KRTYG,53,82,94,57,Port,North China,North China,-,3.09,0.3,81.80000000000001,High
+Japan,SAKAI,JPSAK,53,100,97,54,Port,Japan Coast,Japan Coast,SAKAISENBOKU;  JP SBK,3.65,0.27,89.60000000000001,High
+USA,MOBILE,USMOB,53,19,22,32,Port,Gulf of Mexico,Gulf of Mexico,-,1.28,1.29,22.800000000000004,Low
+Canada,PRINCE RUPERT,CAPRR,53,41,46,17,Port,West Coast Canada,West Coast Canada,-,5.12,0.61,38.2,Medium
+Korea,SAMCHEONPO,KRSCP,53,29,42,15,Port,North China,North China,-,4.73,0.75,31.400000000000002,Low
+Denmark,GILLELEJE,DKGLE,53,19,26,4,Port,Kattegat,Baltic Sea,-,11.25,1.18,18.8,Low
+Netherlands,FLEVO MARINA,-,53,27,42,0,Port,North Sea,UK Coast & Atlantic,-,inf,0.77,27.6,Low
+Brazil,PARANAGUA ANCH,Unknown,53,3,8,0,Anchorage,East Coast South America,East Coast South America,-,inf,4.82,4.4,Low
+United Kingdom,PORT HAMBLE,-,53,22,39,0,Marina,English Channel,UK Coast & Atlantic,SOUTHAMPTON;  HAMPSHI,inf,0.87,24.400000000000002,Low
+Australia,SOUTHPORT QLD,AUSHQ,53,22,20,0,Port,Coral Sea,East Australia,SOUTHPORT,inf,1.26,16.8,Low
+New Zealand,AUCKLAND,NZAKL,52,74,85,26,Port,East Australia,East Australia,-,6.12,0.33,68.8,Medium
+Puerto Rico,SAN JUAN,PRSJU,52,4,5,22,Port,Caribbean Sea,Caribbean Sea,PUERTO NUEVO,0.41,5.78,8.0,Low
+Japan,KUSHIRO,JPKUH,52,73,57,20,Port,Japan Coast,Japan Coast,HIGASHI,6.5,0.4,56.0,Medium
+USA,KODIAK,USADQ,52,5,3,18,Port,Gulf of Alaska,Alaska,AFOGNAK,0.44,6.5,6.800000000000001,Low
+United Kingdom,LIVERPOOL,GBLIV,52,31,45,12,Port,Irish Sea,UK Coast & Atlantic,-,6.33,0.68,32.8,Medium
+Denmark,AALBORG,DKAAL,52,9,22,7,Port,Kattegat,UK Coast & Atlantic,NORRESUNDBY,4.43,1.68,13.8,Low
+Netherlands,STELLENDAM,NLSTD,52,21,16,6,Port,Rotterdam Area,UK Coast & Atlantic,-,6.17,1.41,16.0,Low
+USA,NEW BEDFORD,USNBD,52,6,5,4,Port,US East Coast,US East Coast,NIEMIEC MARINE;  HOMERS WHARF;  WHALING CITY,2.75,4.73,5.2,Low
+Greece,AGIOS KOSMAS,-,52,4,17,2,Marina,Piraeus Area,East Mediterranean,AG.KOSMAS;  AG KOSMAS,10.5,2.48,8.8,Low
+Greece,ALIMOS,GRAIO,52,24,24,2,Marina,Piraeus Area,East Mediterranean,ALIMOU,24.0,1.08,19.6,Low
+USA,AVENTURA,USAVU,52,8,9,0,Port,US East Coast,US East Coast,-,inf,3.06,6.800000000000001,Low
+Nigeria,LAGOS ANCH,-,52,23,26,0,Anchorage,Gulf of Guinea,West Africa,-,inf,1.06,19.6,Low
+Sweden,LANGEDRAG,SELGD,52,58,75,0,Port,Kattegat,Baltic Sea,SALTHOLMEN,inf,0.39,53.2,Medium
+Panama,PANAMA ANCH ATLANTIC,-,52,26,31,0,Anchorage,Panama Canal,East Coast Central America,-,inf,0.91,22.8,Low
+China,FUZHOU,CNFOC,51,18,23,89,Port,East China Sea,South China,FU ZHOU;  MAWEI,0.46,1.24,34.2,Medium
+Korea,ONSAN,KRONS,51,121,121,26,Port,North China,North China,KR USN,9.31,0.21,102.00000000000001,High
+China,PENGLAI,CNPLI,51,63,61,22,Port,Bohai Sea,North China,PENG LAI;  CNPLA,5.64,0.41,54.00000000000001,Medium
+USA,PORT EVERGLADES,USPEF,51,23,21,22,Port,US East Coast,US East Coast,-,2.0,1.16,22.0,Low
+India,KAKINADA,INKAK,51,8,10,21,Port,Bengal Bay,East Coast India,-,0.86,2.83,11.4,Low
+Japan,NAHA,JPNAH,51,33,42,15,Port,East China Sea,Japan Coast,-,5.0,0.68,33.0,Medium

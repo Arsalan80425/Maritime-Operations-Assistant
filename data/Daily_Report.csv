@@ -1,0 +1,421 @@
+Date,Port_Name,Vessels_in_Port,Avg_Delay,Weather,Remarks
+2025-10-27,AL JUBAIL,1132,6.77,Clear,Moderate activity
+2025-10-26,AL JUBAIL,1015,8.05,Cloudy,Moderate activity
+2025-10-25,AL JUBAIL,377,8.22,Clear,Smooth operations
+2025-10-24,AL JUBAIL,1925,0.85,Cloudy,Heavy congestion
+2025-10-23,AL JUBAIL,1730,11.87,Windy,Moderate activity
+2025-10-22,AL JUBAIL,1282,8.08,Cloudy,Moderate activity
+2025-10-21,AL JUBAIL,1312,7.84,Windy,Moderate activity
+2025-10-27,PYEONGTAEK,387,7.62,Cloudy,Smooth operations
+2025-10-26,PYEONGTAEK,229,7.62,Cloudy,Smooth operations
+2025-10-25,PYEONGTAEK,1987,10.28,Clear,Heavy congestion
+2025-10-24,PYEONGTAEK,344,5.44,Clear,Smooth operations
+2025-10-23,PYEONGTAEK,1006,6.9,Stormy,Moderate activity
+2025-10-22,PYEONGTAEK,1533,6.52,Clear,Moderate activity
+2025-10-21,PYEONGTAEK,1471,2.74,Cloudy,Moderate activity
+2025-10-27,PENANG,1304,9.3,Clear,Moderate activity
+2025-10-26,PENANG,1231,1.2,Clear,Moderate activity
+2025-10-25,PENANG,917,8.25,Rainy,Smooth operations
+2025-10-24,PENANG,111,2.25,Rainy,Smooth operations
+2025-10-23,PENANG,2329,7.44,Cloudy,Heavy congestion
+2025-10-22,PENANG,2177,4.85,Clear,Heavy congestion
+2025-10-21,PENANG,1219,3.1,Cloudy,Moderate activity
+2025-10-27,TAICANG ANCH,907,4.22,Cloudy,Smooth operations
+2025-10-26,TAICANG ANCH,1497,3.02,Clear,Moderate activity
+2025-10-25,TAICANG ANCH,1360,7.47,Rainy,Moderate activity
+2025-10-24,TAICANG ANCH,1406,8.94,Clear,Moderate activity
+2025-10-23,TAICANG ANCH,1597,7.33,Cloudy,Moderate activity
+2025-10-22,TAICANG ANCH,687,0.82,Cloudy,Smooth operations
+2025-10-21,TAICANG ANCH,1811,0.82,Cloudy,Heavy congestion
+2025-10-27,TOKYO,420,8.24,Stormy,Smooth operations
+2025-10-26,TOKYO,2137,3.9,Cloudy,Heavy congestion
+2025-10-25,TOKYO,1201,5.08,Rainy,Moderate activity
+2025-10-24,TOKYO,2272,0.78,Clear,Heavy congestion
+2025-10-23,TOKYO,1992,7.41,Clear,Heavy congestion
+2025-10-22,TOKYO,1251,10.42,Clear,Moderate activity
+2025-10-21,TOKYO,1577,8.72,Clear,Moderate activity
+2025-10-27,ZHOUSHAN ANCH,2353,9.52,Windy,Heavy congestion
+2025-10-26,ZHOUSHAN ANCH,539,9.61,Cloudy,Smooth operations
+2025-10-25,ZHOUSHAN ANCH,263,7.57,Cloudy,Smooth operations
+2025-10-24,ZHOUSHAN ANCH,762,0.51,Clear,Smooth operations
+2025-10-23,ZHOUSHAN ANCH,1064,8.11,Cloudy,Moderate activity
+2025-10-22,ZHOUSHAN ANCH,1585,5.59,Clear,Moderate activity
+2025-10-21,ZHOUSHAN ANCH,1011,10.88,Rainy,Moderate activity
+2025-10-27,CAPE TOWN,2464,4.44,Clear,Heavy congestion
+2025-10-26,CAPE TOWN,1679,11.13,Cloudy,Moderate activity
+2025-10-25,CAPE TOWN,655,7.97,Clear,Smooth operations
+2025-10-24,CAPE TOWN,471,7.92,Clear,Smooth operations
+2025-10-23,CAPE TOWN,2353,1.86,Clear,Heavy congestion
+2025-10-22,CAPE TOWN,1478,4.6,Clear,Moderate activity
+2025-10-21,CAPE TOWN,2337,6.71,Rainy,Heavy congestion
+2025-10-27,ZHANJIANG ANCH,2398,9.97,Rainy,Heavy congestion
+2025-10-26,ZHANJIANG ANCH,425,9.84,Clear,Smooth operations
+2025-10-25,ZHANJIANG ANCH,2085,7.48,Clear,Heavy congestion
+2025-10-24,ZHANJIANG ANCH,2219,1.59,Clear,Heavy congestion
+2025-10-23,ZHANJIANG ANCH,1978,1.43,Rainy,Heavy congestion
+2025-10-22,ZHANJIANG ANCH,665,5.61,Cloudy,Smooth operations
+2025-10-21,ZHANJIANG ANCH,1853,1.26,Rainy,Heavy congestion
+2025-10-27,LONGHAI,2086,9.84,Clear,Heavy congestion
+2025-10-26,LONGHAI,228,5.13,Cloudy,Smooth operations
+2025-10-25,LONGHAI,107,4.13,Clear,Smooth operations
+2025-10-24,LONGHAI,2278,8.99,Cloudy,Heavy congestion
+2025-10-23,LONGHAI,2359,8.56,Stormy,Heavy congestion
+2025-10-22,LONGHAI,1895,5.4,Windy,Heavy congestion
+2025-10-21,LONGHAI,270,2.65,Clear,Smooth operations
+2025-10-27,ROSTOV-ON-DON,1209,4.04,Cloudy,Moderate activity
+2025-10-26,ROSTOV-ON-DON,1166,2.76,Clear,Moderate activity
+2025-10-25,ROSTOV-ON-DON,957,1.74,Cloudy,Smooth operations
+2025-10-24,ROSTOV-ON-DON,398,3.7,Stormy,Smooth operations
+2025-10-23,ROSTOV-ON-DON,310,10.07,Windy,Smooth operations
+2025-10-22,ROSTOV-ON-DON,1330,6.76,Clear,Moderate activity
+2025-10-21,ROSTOV-ON-DON,1165,9.93,Clear,Moderate activity
+2025-10-27,ISTANBUL,526,3.63,Clear,Smooth operations
+2025-10-26,ISTANBUL,2007,4.04,Cloudy,Heavy congestion
+2025-10-25,ISTANBUL,1700,11.74,Cloudy,Moderate activity
+2025-10-24,ISTANBUL,2199,8.9,Clear,Heavy congestion
+2025-10-23,ISTANBUL,366,10.94,Windy,Smooth operations
+2025-10-22,ISTANBUL,1993,6.9,Clear,Heavy congestion
+2025-10-21,ISTANBUL,1752,6.59,Stormy,Moderate activity
+2025-10-27,ZAANDAM,819,1.15,Stormy,Smooth operations
+2025-10-26,ZAANDAM,217,3.98,Windy,Smooth operations
+2025-10-25,ZAANDAM,359,5.05,Stormy,Smooth operations
+2025-10-24,ZAANDAM,465,4.03,Clear,Smooth operations
+2025-10-23,ZAANDAM,2124,3.39,Clear,Heavy congestion
+2025-10-22,ZAANDAM,846,11.65,Clear,Smooth operations
+2025-10-21,ZAANDAM,1177,5.87,Clear,Moderate activity
+2025-10-27,TONGYEONG,2481,1.2,Cloudy,Heavy congestion
+2025-10-26,TONGYEONG,819,1.81,Windy,Smooth operations
+2025-10-25,TONGYEONG,784,1.82,Rainy,Smooth operations
+2025-10-24,TONGYEONG,1046,0.5,Cloudy,Moderate activity
+2025-10-23,TONGYEONG,343,5.06,Cloudy,Smooth operations
+2025-10-22,TONGYEONG,2364,11.32,Cloudy,Heavy congestion
+2025-10-21,TONGYEONG,1292,2.58,Clear,Moderate activity
+2025-10-27,SOUTHAMPTON,1619,7.19,Cloudy,Moderate activity
+2025-10-26,SOUTHAMPTON,919,3.92,Clear,Smooth operations
+2025-10-25,SOUTHAMPTON,1311,2.37,Stormy,Moderate activity
+2025-10-24,SOUTHAMPTON,526,8.53,Clear,Smooth operations
+2025-10-23,SOUTHAMPTON,2218,7.35,Rainy,Heavy congestion
+2025-10-22,SOUTHAMPTON,390,1.84,Clear,Smooth operations
+2025-10-21,SOUTHAMPTON,2439,6.71,Clear,Heavy congestion
+2025-10-27,ANACORTES,1406,7.32,Clear,Moderate activity
+2025-10-26,ANACORTES,1279,3.91,Clear,Moderate activity
+2025-10-25,ANACORTES,658,10.5,Clear,Smooth operations
+2025-10-24,ANACORTES,520,1.43,Windy,Smooth operations
+2025-10-23,ANACORTES,1401,5.98,Cloudy,Moderate activity
+2025-10-22,ANACORTES,2369,4.64,Clear,Heavy congestion
+2025-10-21,ANACORTES,354,11.32,Clear,Smooth operations
+2025-10-27,YOKOHAMA,541,11.86,Clear,Smooth operations
+2025-10-26,YOKOHAMA,681,7.44,Rainy,Smooth operations
+2025-10-25,YOKOHAMA,118,6.44,Cloudy,Smooth operations
+2025-10-24,YOKOHAMA,1480,0.62,Rainy,Moderate activity
+2025-10-23,YOKOHAMA,2093,9.81,Windy,Heavy congestion
+2025-10-22,YOKOHAMA,254,4.43,Rainy,Smooth operations
+2025-10-21,YOKOHAMA,943,9.87,Clear,Smooth operations
+2025-10-27,MAJISHAN,1825,4.54,Cloudy,Heavy congestion
+2025-10-26,MAJISHAN,1610,4.88,Clear,Moderate activity
+2025-10-25,MAJISHAN,2406,2.68,Cloudy,Heavy congestion
+2025-10-24,MAJISHAN,521,2.99,Cloudy,Smooth operations
+2025-10-23,MAJISHAN,679,2.79,Clear,Smooth operations
+2025-10-22,MAJISHAN,1221,9.7,Cloudy,Moderate activity
+2025-10-21,MAJISHAN,482,7.76,Stormy,Smooth operations
+2025-10-27,RAS LAFFAN,1690,3.35,Rainy,Moderate activity
+2025-10-26,RAS LAFFAN,1802,7.46,Clear,Heavy congestion
+2025-10-25,RAS LAFFAN,1754,6.0,Clear,Moderate activity
+2025-10-24,RAS LAFFAN,2344,9.28,Cloudy,Heavy congestion
+2025-10-23,RAS LAFFAN,1453,6.74,Clear,Moderate activity
+2025-10-22,RAS LAFFAN,1024,0.64,Clear,Moderate activity
+2025-10-21,RAS LAFFAN,877,2.83,Clear,Smooth operations
+2025-10-27,MAR DEL PLATA,1519,5.07,Cloudy,Moderate activity
+2025-10-26,MAR DEL PLATA,1003,3.61,Clear,Moderate activity
+2025-10-25,MAR DEL PLATA,274,6.32,Clear,Smooth operations
+2025-10-24,MAR DEL PLATA,656,6.86,Cloudy,Smooth operations
+2025-10-23,MAR DEL PLATA,2156,6.92,Windy,Heavy congestion
+2025-10-22,MAR DEL PLATA,1116,11.05,Stormy,Moderate activity
+2025-10-21,MAR DEL PLATA,325,2.63,Cloudy,Smooth operations
+2025-10-27,KJOLLEFJORD,2120,5.69,Clear,Heavy congestion
+2025-10-26,KJOLLEFJORD,1331,10.18,Clear,Moderate activity
+2025-10-25,KJOLLEFJORD,405,2.45,Clear,Smooth operations
+2025-10-24,KJOLLEFJORD,1789,9.2,Cloudy,Moderate activity
+2025-10-23,KJOLLEFJORD,519,4.62,Windy,Smooth operations
+2025-10-22,KJOLLEFJORD,2130,8.88,Clear,Heavy congestion
+2025-10-21,KJOLLEFJORD,1264,1.55,Clear,Moderate activity
+2025-10-27,PORT HAMBLE,1442,8.21,Cloudy,Moderate activity
+2025-10-26,PORT HAMBLE,1278,9.31,Cloudy,Moderate activity
+2025-10-25,PORT HAMBLE,567,7.17,Clear,Smooth operations
+2025-10-24,PORT HAMBLE,1372,1.63,Windy,Moderate activity
+2025-10-23,PORT HAMBLE,1003,6.82,Windy,Moderate activity
+2025-10-22,PORT HAMBLE,247,2.56,Stormy,Smooth operations
+2025-10-21,PORT HAMBLE,1189,7.26,Clear,Moderate activity
+2025-10-27,DOS BOCAS,274,11.11,Clear,Smooth operations
+2025-10-26,DOS BOCAS,1237,7.72,Cloudy,Moderate activity
+2025-10-25,DOS BOCAS,1270,11.91,Clear,Moderate activity
+2025-10-24,DOS BOCAS,1137,10.05,Clear,Moderate activity
+2025-10-23,DOS BOCAS,2380,7.75,Stormy,Heavy congestion
+2025-10-22,DOS BOCAS,1973,9.82,Clear,Heavy congestion
+2025-10-21,DOS BOCAS,2079,7.15,Rainy,Heavy congestion
+2025-10-27,JIANGYIN,791,10.46,Clear,Smooth operations
+2025-10-26,JIANGYIN,1734,2.11,Cloudy,Moderate activity
+2025-10-25,JIANGYIN,393,5.13,Cloudy,Smooth operations
+2025-10-24,JIANGYIN,2457,1.18,Cloudy,Heavy congestion
+2025-10-23,JIANGYIN,518,5.05,Clear,Smooth operations
+2025-10-22,JIANGYIN,2383,8.9,Cloudy,Heavy congestion
+2025-10-21,JIANGYIN,1867,1.97,Cloudy,Heavy congestion
+2025-10-27,ROTTERDAM,1769,4.59,Cloudy,Moderate activity
+2025-10-26,ROTTERDAM,1018,7.27,Windy,Moderate activity
+2025-10-25,ROTTERDAM,1978,3.3,Cloudy,Heavy congestion
+2025-10-24,ROTTERDAM,1018,4.12,Clear,Moderate activity
+2025-10-23,ROTTERDAM,1426,0.79,Clear,Moderate activity
+2025-10-22,ROTTERDAM,1173,1.0,Cloudy,Moderate activity
+2025-10-21,ROTTERDAM,1470,8.49,Cloudy,Moderate activity
+2025-10-27,XIUYU,395,7.52,Cloudy,Smooth operations
+2025-10-26,XIUYU,2490,4.15,Windy,Heavy congestion
+2025-10-25,XIUYU,1727,7.39,Cloudy,Moderate activity
+2025-10-24,XIUYU,1660,4.17,Cloudy,Moderate activity
+2025-10-23,XIUYU,2396,3.29,Clear,Heavy congestion
+2025-10-22,XIUYU,1198,7.23,Windy,Moderate activity
+2025-10-21,XIUYU,1626,7.1,Clear,Moderate activity
+2025-10-27,HARLINGEN,1654,7.7,Cloudy,Moderate activity
+2025-10-26,HARLINGEN,2491,6.5,Rainy,Heavy congestion
+2025-10-25,HARLINGEN,2119,3.67,Cloudy,Heavy congestion
+2025-10-24,HARLINGEN,590,7.26,Clear,Smooth operations
+2025-10-23,HARLINGEN,320,9.82,Cloudy,Smooth operations
+2025-10-22,HARLINGEN,627,3.9,Clear,Smooth operations
+2025-10-21,HARLINGEN,580,3.59,Clear,Smooth operations
+2025-10-27,MEIZHOU ISLAND,1562,4.92,Cloudy,Moderate activity
+2025-10-26,MEIZHOU ISLAND,144,7.26,Cloudy,Smooth operations
+2025-10-25,MEIZHOU ISLAND,1987,10.06,Clear,Heavy congestion
+2025-10-24,MEIZHOU ISLAND,2434,2.48,Cloudy,Heavy congestion
+2025-10-23,MEIZHOU ISLAND,373,3.76,Cloudy,Smooth operations
+2025-10-22,MEIZHOU ISLAND,1452,7.46,Clear,Moderate activity
+2025-10-21,MEIZHOU ISLAND,1291,8.19,Stormy,Moderate activity
+2025-10-27,AMSTERDAM ANCH,1511,3.56,Clear,Moderate activity
+2025-10-26,AMSTERDAM ANCH,2012,10.69,Cloudy,Heavy congestion
+2025-10-25,AMSTERDAM ANCH,887,9.79,Rainy,Smooth operations
+2025-10-24,AMSTERDAM ANCH,1037,8.96,Clear,Moderate activity
+2025-10-23,AMSTERDAM ANCH,716,10.62,Clear,Smooth operations
+2025-10-22,AMSTERDAM ANCH,620,2.08,Clear,Smooth operations
+2025-10-21,AMSTERDAM ANCH,1287,6.25,Cloudy,Moderate activity
+2025-10-27,TANJUNG PELEPAS ANCH,1197,10.98,Clear,Moderate activity
+2025-10-26,TANJUNG PELEPAS ANCH,298,4.09,Cloudy,Smooth operations
+2025-10-25,TANJUNG PELEPAS ANCH,890,7.63,Rainy,Smooth operations
+2025-10-24,TANJUNG PELEPAS ANCH,1274,4.94,Clear,Moderate activity
+2025-10-23,TANJUNG PELEPAS ANCH,2344,9.31,Cloudy,Heavy congestion
+2025-10-22,TANJUNG PELEPAS ANCH,887,5.03,Clear,Smooth operations
+2025-10-21,TANJUNG PELEPAS ANCH,1757,7.11,Clear,Moderate activity
+2025-10-27,BANDAR ABBAS ANCH,1705,4.72,Clear,Moderate activity
+2025-10-26,BANDAR ABBAS ANCH,1315,7.81,Clear,Moderate activity
+2025-10-25,BANDAR ABBAS ANCH,1590,6.52,Windy,Moderate activity
+2025-10-24,BANDAR ABBAS ANCH,483,10.96,Clear,Smooth operations
+2025-10-23,BANDAR ABBAS ANCH,316,4.22,Stormy,Smooth operations
+2025-10-22,BANDAR ABBAS ANCH,2417,2.6,Windy,Heavy congestion
+2025-10-21,BANDAR ABBAS ANCH,2452,1.22,Cloudy,Heavy congestion
+2025-10-27,SHEKOU,331,9.84,Clear,Smooth operations
+2025-10-26,SHEKOU,1677,6.78,Windy,Moderate activity
+2025-10-25,SHEKOU,1130,10.36,Stormy,Moderate activity
+2025-10-24,SHEKOU,617,8.44,Windy,Smooth operations
+2025-10-23,SHEKOU,2432,4.27,Clear,Heavy congestion
+2025-10-22,SHEKOU,2478,6.37,Clear,Heavy congestion
+2025-10-21,SHEKOU,1407,9.73,Rainy,Moderate activity
+2025-10-27,GENOVA,2225,5.62,Clear,Heavy congestion
+2025-10-26,GENOVA,665,8.12,Stormy,Smooth operations
+2025-10-25,GENOVA,1451,10.52,Clear,Moderate activity
+2025-10-24,GENOVA,1182,9.74,Windy,Moderate activity
+2025-10-23,GENOVA,290,1.44,Cloudy,Smooth operations
+2025-10-22,GENOVA,478,7.84,Clear,Smooth operations
+2025-10-21,GENOVA,1642,8.75,Cloudy,Moderate activity
+2025-10-27,ESBJERG,1066,4.91,Clear,Moderate activity
+2025-10-26,ESBJERG,942,8.28,Cloudy,Smooth operations
+2025-10-25,ESBJERG,1607,7.15,Clear,Moderate activity
+2025-10-24,ESBJERG,2356,5.8,Rainy,Heavy congestion
+2025-10-23,ESBJERG,2371,11.22,Windy,Heavy congestion
+2025-10-22,ESBJERG,710,10.15,Cloudy,Smooth operations
+2025-10-21,ESBJERG,1440,4.67,Rainy,Moderate activity
+2025-10-27,ZHOUSHAN,1147,2.1,Cloudy,Moderate activity
+2025-10-26,ZHOUSHAN,817,4.25,Clear,Smooth operations
+2025-10-25,ZHOUSHAN,2418,10.42,Clear,Heavy congestion
+2025-10-24,ZHOUSHAN,486,7.74,Rainy,Smooth operations
+2025-10-23,ZHOUSHAN,1083,11.74,Cloudy,Moderate activity
+2025-10-22,ZHOUSHAN,1379,0.62,Cloudy,Moderate activity
+2025-10-21,ZHOUSHAN,1124,1.15,Clear,Moderate activity
+2025-10-27,PALM BEACH,2481,4.46,Cloudy,Heavy congestion
+2025-10-26,PALM BEACH,2090,10.62,Cloudy,Heavy congestion
+2025-10-25,PALM BEACH,1020,2.09,Windy,Moderate activity
+2025-10-24,PALM BEACH,2457,5.95,Cloudy,Heavy congestion
+2025-10-23,PALM BEACH,439,5.36,Stormy,Smooth operations
+2025-10-22,PALM BEACH,2438,10.79,Rainy,Heavy congestion
+2025-10-21,PALM BEACH,1038,5.77,Clear,Moderate activity
+2025-10-27,IJMUIDEN,229,11.2,Cloudy,Smooth operations
+2025-10-26,IJMUIDEN,961,7.35,Windy,Smooth operations
+2025-10-25,IJMUIDEN,2472,3.49,Clear,Heavy congestion
+2025-10-24,IJMUIDEN,1740,7.06,Cloudy,Moderate activity
+2025-10-23,IJMUIDEN,1549,3.03,Clear,Moderate activity
+2025-10-22,IJMUIDEN,1562,9.16,Stormy,Moderate activity
+2025-10-21,IJMUIDEN,1732,8.83,Windy,Moderate activity
+2025-10-27,HUANGGE,2244,8.61,Clear,Heavy congestion
+2025-10-26,HUANGGE,2272,4.51,Clear,Heavy congestion
+2025-10-25,HUANGGE,1667,8.68,Clear,Moderate activity
+2025-10-24,HUANGGE,327,11.06,Clear,Smooth operations
+2025-10-23,HUANGGE,901,1.12,Clear,Smooth operations
+2025-10-22,HUANGGE,1179,7.68,Clear,Moderate activity
+2025-10-21,HUANGGE,2260,5.61,Cloudy,Heavy congestion
+2025-10-27,WENZHOU,525,10.59,Stormy,Smooth operations
+2025-10-26,WENZHOU,598,0.86,Cloudy,Smooth operations
+2025-10-25,WENZHOU,1958,9.79,Clear,Heavy congestion
+2025-10-24,WENZHOU,1419,3.71,Stormy,Moderate activity
+2025-10-23,WENZHOU,1191,11.91,Rainy,Moderate activity
+2025-10-22,WENZHOU,1920,8.62,Clear,Heavy congestion
+2025-10-21,WENZHOU,1886,4.25,Windy,Heavy congestion
+2025-10-27,LIJIANG,2107,1.29,Windy,Heavy congestion
+2025-10-26,LIJIANG,340,2.08,Cloudy,Smooth operations
+2025-10-25,LIJIANG,182,5.42,Clear,Smooth operations
+2025-10-24,LIJIANG,710,4.68,Cloudy,Smooth operations
+2025-10-23,LIJIANG,558,10.91,Cloudy,Smooth operations
+2025-10-22,LIJIANG,2084,11.46,Clear,Heavy congestion
+2025-10-21,LIJIANG,221,3.93,Clear,Smooth operations
+2025-10-27,CHANGXINDAO,1084,10.21,Windy,Moderate activity
+2025-10-26,CHANGXINDAO,2010,1.92,Clear,Heavy congestion
+2025-10-25,CHANGXINDAO,2016,0.99,Rainy,Heavy congestion
+2025-10-24,CHANGXINDAO,2056,2.48,Cloudy,Heavy congestion
+2025-10-23,CHANGXINDAO,2072,2.1,Cloudy,Heavy congestion
+2025-10-22,CHANGXINDAO,1177,0.65,Cloudy,Moderate activity
+2025-10-21,CHANGXINDAO,164,10.12,Cloudy,Smooth operations
+2025-10-27,NINGBO,634,11.78,Cloudy,Smooth operations
+2025-10-26,NINGBO,2255,3.82,Clear,Heavy congestion
+2025-10-25,NINGBO,1329,6.76,Clear,Moderate activity
+2025-10-24,NINGBO,101,2.43,Clear,Smooth operations
+2025-10-23,NINGBO,1961,8.03,Cloudy,Heavy congestion
+2025-10-22,NINGBO,228,2.29,Cloudy,Smooth operations
+2025-10-21,NINGBO,1321,9.62,Clear,Moderate activity
+2025-10-27,MARINA PLAZA HARBOR,1402,11.43,Clear,Moderate activity
+2025-10-26,MARINA PLAZA HARBOR,1167,11.65,Stormy,Moderate activity
+2025-10-25,MARINA PLAZA HARBOR,647,2.56,Clear,Smooth operations
+2025-10-24,MARINA PLAZA HARBOR,284,8.62,Cloudy,Smooth operations
+2025-10-23,MARINA PLAZA HARBOR,2013,1.75,Windy,Heavy congestion
+2025-10-22,MARINA PLAZA HARBOR,1457,6.0,Stormy,Moderate activity
+2025-10-21,MARINA PLAZA HARBOR,1978,7.78,Cloudy,Heavy congestion
+2025-10-27,HAIFA,2179,8.51,Windy,Heavy congestion
+2025-10-26,HAIFA,716,4.35,Clear,Smooth operations
+2025-10-25,HAIFA,1859,11.15,Cloudy,Heavy congestion
+2025-10-24,HAIFA,325,8.42,Cloudy,Smooth operations
+2025-10-23,HAIFA,2221,11.63,Cloudy,Heavy congestion
+2025-10-22,HAIFA,1942,7.89,Cloudy,Heavy congestion
+2025-10-21,HAIFA,2179,4.67,Rainy,Heavy congestion
+2025-10-27,BUENOS AIRES,1844,2.72,Cloudy,Heavy congestion
+2025-10-26,BUENOS AIRES,1565,2.57,Clear,Moderate activity
+2025-10-25,BUENOS AIRES,2160,4.44,Cloudy,Heavy congestion
+2025-10-24,BUENOS AIRES,1085,4.14,Clear,Moderate activity
+2025-10-23,BUENOS AIRES,200,4.64,Clear,Smooth operations
+2025-10-22,BUENOS AIRES,140,1.43,Clear,Smooth operations
+2025-10-21,BUENOS AIRES,708,1.53,Windy,Smooth operations
+2025-10-27,BATU AMPAR,1475,6.06,Clear,Moderate activity
+2025-10-26,BATU AMPAR,1396,2.36,Windy,Moderate activity
+2025-10-25,BATU AMPAR,267,8.72,Clear,Smooth operations
+2025-10-24,BATU AMPAR,794,3.75,Clear,Smooth operations
+2025-10-23,BATU AMPAR,1012,2.75,Clear,Moderate activity
+2025-10-22,BATU AMPAR,2248,7.39,Clear,Heavy congestion
+2025-10-21,BATU AMPAR,256,4.4,Windy,Smooth operations
+2025-10-27,TORREVIEJA,1527,7.21,Cloudy,Moderate activity
+2025-10-26,TORREVIEJA,2412,4.11,Cloudy,Heavy congestion
+2025-10-25,TORREVIEJA,1096,10.54,Clear,Moderate activity
+2025-10-24,TORREVIEJA,828,8.45,Clear,Smooth operations
+2025-10-23,TORREVIEJA,2485,10.04,Clear,Heavy congestion
+2025-10-22,TORREVIEJA,2116,10.96,Cloudy,Heavy congestion
+2025-10-21,TORREVIEJA,276,4.09,Stormy,Smooth operations
+2025-10-27,ALIMOS,666,10.08,Windy,Smooth operations
+2025-10-26,ALIMOS,1898,4.4,Cloudy,Heavy congestion
+2025-10-25,ALIMOS,507,10.22,Clear,Smooth operations
+2025-10-24,ALIMOS,1241,8.25,Cloudy,Moderate activity
+2025-10-23,ALIMOS,586,4.61,Cloudy,Smooth operations
+2025-10-22,ALIMOS,1459,8.11,Clear,Moderate activity
+2025-10-21,ALIMOS,189,7.36,Cloudy,Smooth operations
+2025-10-27,QUANZHOU,400,4.88,Clear,Smooth operations
+2025-10-26,QUANZHOU,167,8.72,Windy,Smooth operations
+2025-10-25,QUANZHOU,497,9.76,Clear,Smooth operations
+2025-10-24,QUANZHOU,829,6.54,Stormy,Smooth operations
+2025-10-23,QUANZHOU,1851,8.33,Cloudy,Heavy congestion
+2025-10-22,QUANZHOU,1095,1.12,Clear,Moderate activity
+2025-10-21,QUANZHOU,2234,3.29,Cloudy,Heavy congestion
+2025-10-27,SWINOUJSCIE,2451,6.83,Clear,Heavy congestion
+2025-10-26,SWINOUJSCIE,1822,11.3,Cloudy,Heavy congestion
+2025-10-25,SWINOUJSCIE,1635,11.72,Cloudy,Moderate activity
+2025-10-24,SWINOUJSCIE,1632,6.43,Cloudy,Moderate activity
+2025-10-23,SWINOUJSCIE,377,1.74,Rainy,Smooth operations
+2025-10-22,SWINOUJSCIE,1369,7.37,Clear,Moderate activity
+2025-10-21,SWINOUJSCIE,1194,6.89,Cloudy,Moderate activity
+2025-10-27,DARWIN,2231,10.5,Clear,Heavy congestion
+2025-10-26,DARWIN,915,4.6,Cloudy,Smooth operations
+2025-10-25,DARWIN,242,5.45,Clear,Smooth operations
+2025-10-24,DARWIN,634,9.57,Clear,Smooth operations
+2025-10-23,DARWIN,1510,2.76,Clear,Moderate activity
+2025-10-22,DARWIN,504,9.1,Rainy,Smooth operations
+2025-10-21,DARWIN,521,10.37,Cloudy,Smooth operations
+2025-10-27,DUBAI,646,4.02,Clear,Smooth operations
+2025-10-26,DUBAI,1929,6.57,Clear,Heavy congestion
+2025-10-25,DUBAI,733,1.67,Stormy,Smooth operations
+2025-10-24,DUBAI,982,6.05,Clear,Smooth operations
+2025-10-23,DUBAI,1520,8.64,Stormy,Moderate activity
+2025-10-22,DUBAI,2344,1.93,Clear,Heavy congestion
+2025-10-21,DUBAI,429,7.3,Clear,Smooth operations
+2025-10-27,CANAKKALE,2454,6.1,Clear,Heavy congestion
+2025-10-26,CANAKKALE,1125,6.58,Clear,Moderate activity
+2025-10-25,CANAKKALE,839,2.77,Rainy,Smooth operations
+2025-10-24,CANAKKALE,1131,9.41,Clear,Moderate activity
+2025-10-23,CANAKKALE,2400,8.07,Cloudy,Heavy congestion
+2025-10-22,CANAKKALE,953,6.92,Clear,Smooth operations
+2025-10-21,CANAKKALE,2363,4.96,Clear,Heavy congestion
+2025-10-27,NANSHA ANCH,509,8.98,Clear,Smooth operations
+2025-10-26,NANSHA ANCH,1679,4.13,Rainy,Moderate activity
+2025-10-25,NANSHA ANCH,1569,0.64,Cloudy,Moderate activity
+2025-10-24,NANSHA ANCH,341,1.23,Clear,Smooth operations
+2025-10-23,NANSHA ANCH,1371,2.57,Clear,Moderate activity
+2025-10-22,NANSHA ANCH,2186,6.06,Cloudy,Heavy congestion
+2025-10-21,NANSHA ANCH,924,5.75,Rainy,Smooth operations
+2025-10-27,JINGTANG ANCH,1421,2.74,Cloudy,Moderate activity
+2025-10-26,JINGTANG ANCH,2061,1.21,Cloudy,Heavy congestion
+2025-10-25,JINGTANG ANCH,942,9.61,Cloudy,Smooth operations
+2025-10-24,JINGTANG ANCH,331,10.09,Clear,Smooth operations
+2025-10-23,JINGTANG ANCH,554,5.54,Rainy,Smooth operations
+2025-10-22,JINGTANG ANCH,629,1.66,Clear,Smooth operations
+2025-10-21,JINGTANG ANCH,695,5.66,Cloudy,Smooth operations
+2025-10-27,WATERFORD HARBOR,1881,8.02,Clear,Heavy congestion
+2025-10-26,WATERFORD HARBOR,1665,4.72,Clear,Moderate activity
+2025-10-25,WATERFORD HARBOR,535,11.92,Rainy,Smooth operations
+2025-10-24,WATERFORD HARBOR,1284,7.41,Stormy,Moderate activity
+2025-10-23,WATERFORD HARBOR,2357,5.74,Cloudy,Heavy congestion
+2025-10-22,WATERFORD HARBOR,1402,3.55,Clear,Moderate activity
+2025-10-21,WATERFORD HARBOR,2287,11.13,Clear,Heavy congestion
+2025-10-27,BREMERHAVEN,2027,2.48,Cloudy,Heavy congestion
+2025-10-26,BREMERHAVEN,1537,1.23,Clear,Moderate activity
+2025-10-25,BREMERHAVEN,1382,10.3,Cloudy,Moderate activity
+2025-10-24,BREMERHAVEN,1373,9.15,Windy,Moderate activity
+2025-10-23,BREMERHAVEN,1231,11.58,Clear,Moderate activity
+2025-10-22,BREMERHAVEN,1381,0.62,Clear,Moderate activity
+2025-10-21,BREMERHAVEN,1327,1.95,Cloudy,Moderate activity
+2025-10-27,LIANYUNGANG ANCH,1311,9.72,Clear,Moderate activity
+2025-10-26,LIANYUNGANG ANCH,1520,7.96,Rainy,Moderate activity
+2025-10-25,LIANYUNGANG ANCH,1292,2.01,Clear,Moderate activity
+2025-10-24,LIANYUNGANG ANCH,1485,5.98,Cloudy,Moderate activity
+2025-10-23,LIANYUNGANG ANCH,515,3.93,Cloudy,Smooth operations
+2025-10-22,LIANYUNGANG ANCH,1976,4.79,Clear,Heavy congestion
+2025-10-21,LIANYUNGANG ANCH,125,11.36,Windy,Smooth operations
+2025-10-27,SAN JUAN,1976,5.89,Clear,Heavy congestion
+2025-10-26,SAN JUAN,318,10.24,Clear,Smooth operations
+2025-10-25,SAN JUAN,1089,9.34,Cloudy,Moderate activity
+2025-10-24,SAN JUAN,2483,9.8,Clear,Heavy congestion
+2025-10-23,SAN JUAN,2447,5.63,Rainy,Heavy congestion
+2025-10-22,SAN JUAN,1107,0.93,Cloudy,Moderate activity
+2025-10-21,SAN JUAN,383,10.04,Clear,Smooth operations
+2025-10-27,HEILIGENHAFEN,977,2.65,Cloudy,Smooth operations
+2025-10-26,HEILIGENHAFEN,1488,8.28,Clear,Moderate activity
+2025-10-25,HEILIGENHAFEN,1165,5.43,Cloudy,Moderate activity
+2025-10-24,HEILIGENHAFEN,170,8.56,Stormy,Smooth operations
+2025-10-23,HEILIGENHAFEN,867,11.97,Clear,Smooth operations
+2025-10-22,HEILIGENHAFEN,754,8.99,Clear,Smooth operations
+2025-10-21,HEILIGENHAFEN,281,3.75,Clear,Smooth operations
+2025-10-27,GOSPORT,2151,11.06,Clear,Heavy congestion
+2025-10-26,GOSPORT,903,11.73,Clear,Smooth operations
+2025-10-25,GOSPORT,1543,7.73,Cloudy,Moderate activity
+2025-10-24,GOSPORT,1432,2.58,Windy,Moderate activity
+2025-10-23,GOSPORT,1756,4.25,Stormy,Moderate activity
+2025-10-22,GOSPORT,871,6.13,Clear,Smooth operations
+2025-10-21,GOSPORT,533,9.04,Clear,Smooth operations
