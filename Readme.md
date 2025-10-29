@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **An intelligent multi-agent AI system for maritime logistics operations using LangGraph, Ollama, and RAG**
+> **An intelligent multi-agent Agentic AI system for maritime logistics operations using LangGraph, Ollama, and RAG**
 
 Built to assist port managers and logistics operators with real-time container tracking, predictive analytics, automated reporting, and intelligent communication - demonstrating production-grade agentic workflow design.
 
